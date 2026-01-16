@@ -130,7 +130,7 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
     - **Chile (2007-2009):** SRS contributed to a major aquaculture crisis alongside ISA outbreaks, devastating the Chilean salmon industry [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC11980539/).
     - **Chile (2024):** Environmental events including low oxygen levels and harmful algal blooms in Los Lagos and Aysén regions caused mortality peaks in January, with stable overall levels compared to previous years [5](https://www.aquafeed.com/newsroom/reports/chile-publishes-annual-reports-on-aquaculture-health-status-and-antimicrobial-use/).
 
-- **Lessons Learned:** The importance of integrated disease management combining biosecurity, stress reduction, sea lice control, and early intervention. The limited efficacy of current vaccines highlights the need for continued research into cellular immune responses and novel vaccine approaches [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/) [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC11980539/).
+- **Lessons Learned:** The importance of integrated disease management combining biosecurity, stress reduction, sea lice control, and early intervention. The limited efficacy of current vaccines highlights the need for continued research into cellular immune responses and novel vaccine approaches [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/) [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC11980539/). xdxdxdxdxdxd 
 
 ## Data Insights
 
