@@ -89,7 +89,7 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
 
 **Treatment Options**
 
-- **Current Treatments:** ####Actualizar con datos de 2025 o superior. 
+- **Current Treatments:** ####TO-DO:Actualizar con datos de 2025 o superior. 
     - **Antibiotics:** Florfenicol is the primary antibiotic used, accounting for 87-97% of antimicrobial use for SRS in Chile. Oxytetracycline is also employed. In 2024, 351.1 tons of antibiotics were used in Chilean salmon aquaculture, with over 96% directed at SRS control [7](https://www.fishfarmingexpert.com/antibiotics-chilean-salmon-farming-florfenicol/srs-pushed-chilean-salmon-farming-antibiotic-use-up-by-97-last-year/1968326) [8](https://www.intechopen.com/chapters/57645).
     - **Treatment Protocol:** Florfenicol at 20 mg/kg body weight for 15 days is the optimized dosing regimen [9](https://pmc.ncbi.nlm.nih.gov/articles/PMC6513110/).
     - **In Vitro Sensitivity:** *P. salmonis* shows sensitivity to streptomycin, gentamicin, erythromycin, chloramphenicol, and oxytetracycline in laboratory conditions [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
