@@ -65,7 +65,7 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
 
 **Risk Factors**
 
-- **Environmental Factors:** Water temperatures between 9-16°C increase disease risk. Low oxygen conditions and harmful algal blooms predispose fish to infection [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/) [5](https://www.aquafeed.com/newsroom/reports/chile-publishes-annual-reports-on-aquaculture-health-status-and-antimicrobial-use/).
+- **Environmental Factors:** Water temperatures between 9-16°C increase disease risk. Low oxygen conditions and harmful algal blooms predispose fish to infection [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/) [5](https://www.aquafeed.com/newsroom/reports/chile-publishes-annual-reports-on-aquaculture-health-status-and-antimicrobial-use/). **summer ?** 
 - **Farm Management Practices:** High stocking densities, overcrowding, chemical delousing treatments, and net fouling that reduces oxygen availability all increase susceptibility [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/).
 
 ### Diagnosis
@@ -83,18 +83,18 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
 
 **Differential Diagnosis**
 
-- **Distinguishing SRS from Other Diseases:** It is crucial to differentiate SRS from other conditions with similar clinical presentations, including Infectious Salmon Anemia (ISA) which causes similar hemorrhaging, Bacterial Kidney Disease (BKD) which also involves kidney pathology, and furunculosis [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia) [6](https://aquatechcenter.com/disease_challenge/salmon-rickettsial-syndrome-srs/).
+- **Distinguishing SRS from Other Diseases:** It is crucial to differentiate SRS from other conditions with similar clinical presentations, including Infectious Salmon Anemia (ISA) which causes similar hemorrhaging, Bacterial Kidney Disease (BKD) which also involves kidney pathology, and furunculosis [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia) [6](https://aquatechcenter.com/disease_challenge/salmon-rickettsial-syndrome-srs/). and Tenacibaculosis which generates similar skin lessons. 
 
 ### Treatment and Prevention
 
 **Treatment Options**
 
-- **Current Treatments:**
+- **Current Treatments:** ####Actualizar con datos de 2025 o superior. 
     - **Antibiotics:** Florfenicol is the primary antibiotic used, accounting for 87-97% of antimicrobial use for SRS in Chile. Oxytetracycline is also employed. In 2024, 351.1 tons of antibiotics were used in Chilean salmon aquaculture, with over 96% directed at SRS control [7](https://www.fishfarmingexpert.com/antibiotics-chilean-salmon-farming-florfenicol/srs-pushed-chilean-salmon-farming-antibiotic-use-up-by-97-last-year/1968326) [8](https://www.intechopen.com/chapters/57645).
     - **Treatment Protocol:** Florfenicol at 20 mg/kg body weight for 15 days is the optimized dosing regimen [9](https://pmc.ncbi.nlm.nih.gov/articles/PMC6513110/).
     - **In Vitro Sensitivity:** *P. salmonis* shows sensitivity to streptomycin, gentamicin, erythromycin, chloramphenicol, and oxytetracycline in laboratory conditions [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
 
-- **Treatment Challenges:**
+- **Treatment Challenges:** 
     - Medicated feed to control intracellular pathogens has proven largely unsuccessful due to difficulty achieving sufficient intracellular antibiotic concentrations [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia) [10](https://www.sciencedirect.com/science/article/abs/pii/S0044848619304120).
     - Treatment failure is common; farms with lower mortality when therapy is initiated have better outcomes [10](https://www.sciencedirect.com/science/article/abs/pii/S0044848619304120).
 
@@ -136,9 +136,9 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
 
 ### Disease Impact by Country
 
-#### Chile
+#### Chile 
 
-- **SRS Incidence in Chile:**
+- **SRS Incidence in Chile:** #######TO-DO: Actualizar fechas. 
     - SRS is the most important disease problem in Chilean salmon aquaculture, responsible for 52.8% of all infectious mortality in Atlantic salmon (2022), a 3.9% increase from the previous year [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC11980539/) [5](https://www.aquafeed.com/newsroom/reports/chile-publishes-annual-reports-on-aquaculture-health-status-and-antimicrobial-use/).
     - In 2020, SRS was responsible for 47.8% and 67.3% of mortality related to infectious diseases and 11.7% and 10.7% of total mortality in Atlantic salmon and rainbow trout production, respectively [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC11980539/).
 
@@ -179,7 +179,7 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
 ## Research and References
 
 ### Latest Research Findings
-
+#######TO-DO: ACTUALIZAR CON EL DATO DEL PAPER DE FERNANDO Y TEAM SOBRE EPIDEMIOLOGÍA. 
 Recent studies on SRS/Piscirickettsiosis have focused on understanding vaccine failure mechanisms, pathogenicity, and antimicrobial stewardship:
 
 1. **"Why vaccines fail against Piscirickettsiosis in farmed salmon and trout and how to avoid it: A review"**
