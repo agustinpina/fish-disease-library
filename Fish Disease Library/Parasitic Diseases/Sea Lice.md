@@ -16,9 +16,9 @@ tags:
 ### What are Sea Lice?
 Sea lice are parasitic copepods that infest farmed and wild fish, notably Atlantic salmon (Salmo salar) and trout (Oncorhynchus mykiss), causing significant health issues and economic losses in the aquaculture industry. The most common species affecting these fish are Lepeophtheirus salmonis and Caligus elongatus [1](https://www.nhm.ac.uk/discover/the-problem-of-sea-lice-in-salmon-farms.html)[2](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=388). Sea lice attach to the skin, fins, and gills of fish, feeding on their mucus, skin, and blood, leading to lesions, stress, and secondary infections [4](https://thefishsite.com/disease-guide/sea-lice). In addition to salmon and trout, sea lice infestations can affect other species such as pink and chum salmon, which are particularly vulnerable due to their lack of scales [2](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=388).
 
-## Symptoms of Sea Lice Infestation
+## Clinical Signs of Sea Lice Infestation
 
-### Common Symptoms
+### Common Signs
 
 - **Physical Signs:**
     - **Skin Lesions:** Visible wounds and ulcerations on the skin, fins, and gills caused by lice attachment and feeding [1](https://www.nhm.ac.uk/discover/the-problem-of-sea-lice-in-salmon-farms.html)[4](https://thefishsite.com/disease-guide/sea-lice).
@@ -26,10 +26,10 @@ Sea lice are parasitic copepods that infest farmed and wild fish, notably Atlant
     - **Inflammation:** Reddened and swollen areas around the attachment sites.
     - **Secondary Infections:** Bacterial and fungal infections can develop at the sites of lice damage [3](https://www.theguardian.com/environment/2023/nov/03/sea-lice-outbreak-icelandic-salmon-farm-welfare-disaster-footage-shows).
 
-- **Behavioral Changes:**
+- **Behavioural Changes:**
     - **Lethargy:** Reduced activity and swimming stamina due to stress and damage.
-    - **Loss of Appetite:** Decreased feeding behavior and subsequent weight loss [1](https://www.nhm.ac.uk/discover/the-problem-of-sea-lice-in-salmon-farms.html).
-    - **Abnormal Swimming Patterns:** Fish may exhibit rubbing or flashing behavior, where they scrape against surfaces to remove lice.
+    - **Loss of Appetite:** Decreased feeding behaviour and subsequent weight loss [1](https://www.nhm.ac.uk/discover/the-problem-of-sea-lice-in-salmon-farms.html).
+    - **Abnormal Swimming Patterns:** Fish may exhibit rubbing or flashing behaviour, where they scrape against surfaces to remove lice.
 
 **Progression of Symptoms**
 

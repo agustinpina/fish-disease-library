@@ -1,6 +1,6 @@
 ---
 title: Parvicapsulosis
-description: Learn about Parvicapsulosis, a parasitic disease in aquaculture fish like Atlantic salmon. Caused by the parasite Parvicapsula pseudobranchicola, it leads to inflamed pseudobranchs, anemia, and high mortality. Discover symptoms, causes, diagnosis, treatment, and prevention strategies to enhance fish health.
+description: Learn about Parvicapsulosis, a parasitic disease in aquaculture fish like Atlantic salmon. Caused by the parasite Parvicapsula pseudobranchicola, it leads to inflamed pseudobranchs, anaemia, and high mortality. Discover symptoms, causes, diagnosis, treatment, and prevention strategies to enhance fish health.
 tags:
   - Parvicapsulosis
   - parasite
@@ -13,22 +13,22 @@ tags:
 ## Overview
 
 ### What is Parvicapsulosis?
-Parvicapsulosis is a parasitic disease affecting various fish species in aquaculture, particularly Atlantic salmon (_Salmo salar_) and other salmonids. It is caused by the myxozoan parasite _Parvicapsula pseudobranchicola_, which primarily infects the pseudobranchs of fish [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4)[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/). Parvicapsulosis can lead to significant economic losses due to high mortality rates, reduced growth performance, and increased susceptibility to secondary infections. The disease was first identified in Norway in 2002 and has since been a recurring problem in Norwegian salmonid farming [4](https://prosjektbanken.forskningsradet.no/en/project/FORISS/207269).
+Parvicapsulosis is a parasitic disease affecting various fish species in aquaculture, particularly Atlantic salmon (*Salmo salar*) and other salmonids. It is caused by the myxozoan parasite *Parvicapsula pseudobranchicola*, which primarily infects the pseudobranchs of fish [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4)[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/). Parvicapsulosis can lead to significant economic losses due to high mortality rates, reduced growth performance, and increased susceptibility to secondary infections. The disease was first identified in Norway in 2002 and has since been a recurring problem in Norwegian salmonid farming [4](https://prosjektbanken.forskningsradet.no/en/project/FORISS/207269).
 
-## Symptoms of Parvicapsulosis
+## Clinical Signs of Parvicapsulosis
 
-### Common Symptoms
+### Common Signs
 
 - **Physical Signs:**
-    - **Pale Gills:** Indicative of anemia and poor oxygen transport.
+    - **Pale Gills:** Indicative of anaemia and poor oxygen transport.
     - **Inflamed Pseudobranchs:** Swollen and reddened pseudobranchs, often covered with a whitish matter [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4).
     - **Excess Mucus Production:** Increased mucus on gills and pseudobranchs.
-    - **Hemorrhages:** Eye bleeding and reddened areas around the pseudobranchs and gills [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4).
+    - **Haemorrhages:** Eye bleeding and reddened areas around the pseudobranchs and gills [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4).
     - **Emaciation:** Significant weight loss and poor body condition.
 
-- **Behavioral Changes:**
+- **Behavioural Changes:**
     - **Lethargy:** Reduced activity and slow swimming.
-    - **Loss of Appetite:** Decreased feeding behavior and subsequent weight loss [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4).
+    - **Loss of Appetite:** Decreased feeding behaviour and subsequent weight loss [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4).
     - **Abnormal Swimming Patterns:** Erratic or sluggish swimming due to respiratory distress.
 
 
@@ -36,7 +36,7 @@ Parvicapsulosis is a parasitic disease affecting various fish species in aquacul
 
 - **Early Stages:** Mild signs such as reduced feed intake and slight lethargy.
 
-- **Advanced Stages:** Pronounced physical symptoms, including pale gills, inflamed pseudobranchs, and hemorrhages, leading to high mortality if left unchecked.
+- **Advanced Stages:** Pronounced physical symptoms, including pale gills, inflamed pseudobranchs, and haemorrhages, leading to high mortality if left unchecked.
 
 - **Impact on Fish Health:** Parvicapsulosis severely compromises respiratory function and overall vitality, making fish susceptible to secondary infections and reduced growth rates. Heavy infections are associated with pseudobranch lesions, runting, and mortality in salmon populations [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/).
 
@@ -44,7 +44,7 @@ Parvicapsulosis is a parasitic disease affecting various fish species in aquacul
 
 **Etiology**
 
-- **Causative Agent:** _Parvicapsula pseudobranchicola_ parasite [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4)[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[5](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-017-2583-9).
+- **Causative Agent:** *Parvicapsula pseudobranchicola* parasite [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4)[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[5](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-017-2583-9).
 
 - **Transmission Methods:**
     - **Direct Contact:** Spread between infected and healthy fish through close proximity.
@@ -64,11 +64,11 @@ Parvicapsulosis is a parasitic disease affecting various fish species in aquacul
 
 **Diagnostic Methods**
 
-- **Clinical Examination:** Observation of physical and behavioral symptoms indicative of Parvicapsulosis.
+- **Clinical Examination:** Observation of physical and behavioural symptoms indicative of Parvicapsulosis.
 
 - **Laboratory Tests:**
     - **Histopathology:** Microscopic examination of pseudobranch tissues to identify characteristic lesions and parasites [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4).
-    - **PCR (Polymerase Chain Reaction):** Real-time RT-PCR detects _Parvicapsula_ genetic material in fish tissues [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[5](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-017-2583-9).
+    - **PCR (Polymerase Chain Reaction):** Real-time RT-PCR detects *Parvicapsula* genetic material in fish tissues [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[5](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-017-2583-9).
     - **In Situ Hybridization (ISH):** A sensitive method for detecting P. pseudobranchicola in paraffin-embedded tissue [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4).
 
 **Differential Diagnosis**
@@ -87,7 +87,7 @@ Parvicapsulosis is a parasitic disease affecting various fish species in aquacul
 
 - **Biosecurity Protocols:**
     
-    - Implementing strict quarantine measures for new stock to prevent the introduction of _Parvicapsula_.
+    - Implementing strict quarantine measures for new stock to prevent the introduction of *Parvicapsula*.
     - Regular disinfection of equipment and facilities to minimize the risk of contamination.
 
 - **Farm Management Practices:**

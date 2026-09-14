@@ -19,22 +19,22 @@ tags:
 ## Overview
 
 ### What is Paranucleosporosis?
-Paranucleosporosis, also known as microsporidiosis, is a parasitic disease affecting various fish species in aquaculture, including Atlantic salmon (_Salmo salar_), rainbow trout (_Oncorhynchus mykiss_), and other marine and freshwater fish. It is caused by microsporidian parasites from the genus _Paranucleospora_ (previously known as _Desmozoon_), leading to significant economic losses due to high mortality rates and reduced growth performance. Paranucleosporosis has  been reported in several countries, including Norway, Scotland, and Canada [2](https://pubmed.ncbi.nlm.nih.gov/23047190/)[3](https://www.gov.scot/binaries/content/documents/govscot/publications/foi-eir-release/2018/03/foi-18-00469/documents/61e5bc60-215d-49d2-bd95-1114e1f03d16/61e5bc60-215d-49d2-bd95-1114e1f03d16/govscot%3Adocument).
+Paranucleosporosis, also known as microsporidiosis, is a parasitic disease affecting various fish species in aquaculture, including Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), and other marine and freshwater fish. It is caused by microsporidian parasites from the genus *Paranucleospora* (previously known as *Desmozoon*), leading to significant economic losses due to high mortality rates and reduced growth performance. Paranucleosporosis has  been reported in several countries, including Norway, Scotland, and Canada [2](https://pubmed.ncbi.nlm.nih.gov/23047190/)[3](https://www.gov.scot/binaries/content/documents/govscot/publications/foi-eir-release/2018/03/foi-18-00469/documents/61e5bc60-215d-49d2-bd95-1114e1f03d16/61e5bc60-215d-49d2-bd95-1114e1f03d16/govscot%3Adocument).
 
-## Symptoms of Paranucleosporosis
+## Clinical Signs of Paranucleosporosis
 
-## Common Symptoms
+### Common Signs
 
 - **Physical Signs:**
     - **Muscle Wasting:** Visible muscle atrophy, particularly along the flanks.
-    - **Pale Gills:** Indicative of anemia and poor oxygen transport.
+    - **Pale Gills:** Indicative of anaemia and poor oxygen transport.
     - **Skin Lesions:** Ulcers and open sores on the skin.
     - **Swollen Abdomen:** Abdominal distension due to fluid accumulation and enlarged organs.
-    - **Hemorrhages:** Internal bleeding in muscles and organs.
+    - **Haemorrhages:** Internal bleeding in muscles and organs.
 
-- **Behavioral Changes:**
+- **Behavioural Changes:**
     - **Lethargy:** Reduced activity and slow swimming.
-    - **Loss of Appetite:** Decreased feeding behavior and significant weight loss.
+    - **Loss of Appetite:** Decreased feeding behaviour and significant weight loss.
     - **Abnormal Swimming Patterns:** Fish may swim erratically or show signs of distress due to muscle damage.
 
 
@@ -42,15 +42,15 @@ Paranucleosporosis, also known as microsporidiosis, is a parasitic disease affec
 
 - **Early Stages:** Mild signs such as reduced feed intake and slight lethargy.
 
-- **Advanced Stages:** More pronounced physical symptoms like muscle wasting, skin lesions, and internal hemorrhages, leading to high mortality if left unchecked.
+- **Advanced Stages:** More pronounced physical symptoms like muscle wasting, skin lesions, and internal haemorrhages, leading to high mortality if left unchecked.
 
 - **Impact on Fish Health:** Paranucleosporosis infections severely compromise immune function and overall vitality, making fish susceptible to secondary infections and reduced growth rates.
 
-## Causes of Paranucleosporosis
+### Causes of Paranucleosporosis
 
 **Etiology**
 
-- **Causative Agent:** Microsporidian parasites from the genus _Paranucleospora_.
+- **Causative Agent:** Microsporidian parasites from the genus *Paranucleospora*.
 
 - **Transmission Methods:**
     - **Direct Contact:** Spread between infected and healthy fish through close proximity.
@@ -62,14 +62,14 @@ Paranucleosporosis, also known as microsporidiosis, is a parasitic disease affec
 
 - **Farm Management Practices:** Ineffective biosecurity measures and lack of routine health monitoring can facilitate the spread of the parasite.
 
-## Diagnosis
+### Diagnosis
 
 **Diagnostic Methods**
 
-- **Clinical Examination:** Observation of physical and behavioral symptoms indicative of Paranucleosporosis infection.
+- **Clinical Examination:** Observation of physical and behavioural symptoms indicative of Paranucleosporosis infection.
 
 - **Laboratory Tests:**
-    - **PCR (Polymerase Chain Reaction):** Detects _Paranucleospora_ genetic material in fish tissues [2](https://pubmed.ncbi.nlm.nih.gov/23047190/).
+    - **PCR (Polymerase Chain Reaction):** Detects *Paranucleospora* genetic material in fish tissues [2](https://pubmed.ncbi.nlm.nih.gov/23047190/).
     - **Histopathology:** Microscopic examination of muscle and organ tissues to identify characteristic lesions and parasites.
     - **Immunohistochemistry:** Uses specific antibodies to detect microsporidian parasites in tissue samples.
 
@@ -77,7 +77,7 @@ Paranucleosporosis, also known as microsporidiosis, is a parasitic disease affec
 
 *Check back for more information.*
 
-## Treatment and Prevention
+### Treatment and Prevention
 
 **Treatment Options**
 
@@ -88,7 +88,7 @@ Paranucleosporosis, also known as microsporidiosis, is a parasitic disease affec
 **Preventive Measures**
 
 - **Biosecurity Protocols:**
-    - Implementing strict quarantine measures for new stock to prevent the introduction of _Paranucleospora_.
+    - Implementing strict quarantine measures for new stock to prevent the introduction of *Paranucleospora*.
     - Regular disinfection of equipment and facilities to minimize the risk of contamination.
 
 - **Farm Management Practices:**
@@ -96,7 +96,7 @@ Paranucleosporosis, also known as microsporidiosis, is a parasitic disease affec
     - Regular health monitoring and early detection programs to identify and manage outbreaks promptly.
     - Implementing all-in/all-out stocking practices to reduce the risk of spreading infections.
 
-## Case Studies
+### Case Studies
 
 **Real-World Examples**
 

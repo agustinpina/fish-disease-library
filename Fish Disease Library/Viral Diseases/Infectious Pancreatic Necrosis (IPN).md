@@ -14,18 +14,18 @@ tags:
 ## Overview
 
 ### What is Infectious Pancreatic Necrosis (IPN)?
-Infectious Pancreatic Necrosis (IPN) is a highly contagious viral disease affecting various fish species in aquaculture, including Atlantic salmon (_Salmo salar_), rainbow trout (_Oncorhynchus mykiss_), and other salmonids. It is caused by the Infectious Pancreatic Necrosis Virus (IPNV), a member of the Birnaviridae family, leading to high mortality rates, especially in young fish, and significant economic losses [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[2](https://en.wikipedia.org/wiki/Infectious_pancreatic_necrosis). IPN primarily affects juvenile salmonids, particularly in the fry and post-smolt stages, but can also infect adult fish asymptomatically [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
+Infectious Pancreatic Necrosis (IPN) is a highly contagious viral disease affecting various fish species in aquaculture, including Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), and other salmonids. It is caused by the Infectious Pancreatic Necrosis Virus (IPNV), a member of the Birnaviridae family, leading to high mortality rates, especially in young fish, and significant economic losses [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[2](https://en.wikipedia.org/wiki/Infectious_pancreatic_necrosis). IPN primarily affects juvenile salmonids, particularly in the fry and post-smolt stages, but can also infect adult fish asymptomatically [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
 
-## Symptoms of Infectious Pancreatic Necrosis
+## Clinical Signs of Infectious Pancreatic Necrosis
 
-### Common Symptoms
+### Common Signs
 
 - **Physical Signs:**
     - **Abdominal Swelling:** Distended abdomen due to fluid accumulation [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
     - **Pale Gills:** Typically pale gills in affected fish [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
-    - **Hemorrhages:** Bleeding in internal organs, including ventral areas and fins [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
+    - **Haemorrhages:** Bleeding in internal organs, including ventral areas and fins [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
     - **Darkening of the Skin:** Affected fish may exhibit darkened coloration [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
-- **Behavioral Changes:**
+- **Behavioural Changes:**
     - **Lethargy:** Fish lying still on the bottom of tanks or ponds [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
     - **Loss of Appetite:** Anorexia and significant weight loss [2](https://en.wikipedia.org/wiki/Infectious_pancreatic_necrosis).
     - **Abnormal Swimming Patterns:** Fish may swim in a corkscrew or spiral motion [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
@@ -35,7 +35,7 @@ Infectious Pancreatic Necrosis (IPN) is a highly contagious viral disease affect
 
 - **Early Stages:** Sudden and progressive increase in mortality at first feeding of fry, particularly in faster-growing individuals [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
 
-- **Advanced Stages:** Pronounced physical symptoms such as abdominal swelling, hemorrhages, and darkened skin, leading to high mortality rates of 10% to 90% [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
+- **Advanced Stages:** Pronounced physical symptoms such as abdominal swelling, haemorrhages, and darkened skin, leading to high mortality rates of 10% to 90% [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
 
 - **Impact on Fish Health:** IPN severely compromises immune function and overall vitality, making fish susceptible to secondary infections [3](https://pubmed.ncbi.nlm.nih.gov/32033004/).
 
@@ -60,7 +60,7 @@ Infectious Pancreatic Necrosis (IPN) is a highly contagious viral disease affect
 
 **Diagnostic Methods**
 
-- **Clinical Examination:** Observation of physical and behavioral symptoms [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[2](https://en.wikipedia.org/wiki/Infectious_pancreatic_necrosis).
+- **Clinical Examination:** Observation of physical and behavioural symptoms [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[2](https://en.wikipedia.org/wiki/Infectious_pancreatic_necrosis).
 
 - **Laboratory Tests:**
     - **PCR (Polymerase Chain Reaction):** Detects IPNV genetic material in fish tissues [3](https://pubmed.ncbi.nlm.nih.gov/32033004/).

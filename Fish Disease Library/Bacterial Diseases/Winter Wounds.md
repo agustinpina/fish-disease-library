@@ -19,16 +19,16 @@ tags:
 ### What are Winter Wounds?
 Winter wounds, also known as winter ulcers or winter sores, are a common condition affecting farmed Atlantic salmon (Salmo salar), typically occurring during the colder months. These wounds are primarily caused by bacterial infections, particularly Moritella viscosa, and are exacerbated by cold water temperatures, significantly impacting fish health and welfare [1](https://www.fishfarmermagazine.com/2023/08/02/winter-wounds-issue-is-a-concern-says-seafood-norway/)[2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon). Winter wounds are prevalent in salmon farming regions with colder climates, such as Norway, Scotland, and Canada. While primarily affecting Atlantic salmon, other salmonid species can also suffer from similar conditions under cold water temperatures.
 
-## Symptoms of Winter Wounds
+## Clinical Signs of Winter Wounds
 
-### Common Symptoms
+### Common Signs
 
 - **Physical Signs:**
     - **Skin Lesions:** Open sores or ulcers on the skin, often starting on the scales and potentially reaching muscle tissue [2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon)[4](https://weareaquaculture.com/news/aquaculture/norwegian-researchers-in-the-battle-against-winter-ulcers-in-salmon).
     - **Inflammation:** Reddened and swollen areas around the wounds.
     - **Superficial to Deep Wounds:** Ranging from superficial wounds to deep ulcers affecting muscle tissue [2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon)[4](https://weareaquaculture.com/news/aquaculture/norwegian-researchers-in-the-battle-against-winter-ulcers-in-salmon).
 
-- **Behavioral Changes:**
+- **Behavioural Changes:**
     - **Reduced Activity:** Fish may show signs of discomfort and reduced mobility due to wounds.
 
 **Progression of Symptoms**

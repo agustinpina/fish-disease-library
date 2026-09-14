@@ -18,11 +18,11 @@ tags:
 ## Overview
 
 ### What is Amoebic Gill Disease (AGD)?
-Amoebic Gill Disease (AGD) is a parasitic disease affecting various fish species in aquaculture, including Atlantic salmon (_Salmo salar_), rainbow trout (_Oncorhynchus mykiss_), and other marine fish. It is caused by the amoeba _Neoparamoeba perurans_, leading to gill inflammation and impaired respiratory function [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd) [4](https://en.wikipedia.org/wiki/Amoebic_gill_disease). AGD was first identified in Tasmania in the 1980s and has since been reported in several other countries, including Norway, Scotland, Ireland, and Chile [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd) [2](https://www.fishfarmingexpert.com/amoebic-gill-disease/1147466) [3](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/amoebic-gill-disease).
+Amoebic Gill Disease (AGD) is a parasitic disease affecting various fish species in aquaculture, including Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), and other marine fish. It is caused by the amoeba *Neoparamoeba perurans*, leading to gill inflammation and impaired respiratory function [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd) [4](https://en.wikipedia.org/wiki/Amoebic_gill_disease). AGD was first identified in Tasmania in the 1980s and has since been reported in several other countries, including Norway, Scotland, Ireland, and Chile [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd) [2](https://www.fishfarmingexpert.com/amoebic-gill-disease/1147466) [3](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/amoebic-gill-disease).
 
-## Symptoms of Amoebic Gill Disease
+## Clinical Signs of Amoebic Gill Disease
 
-### Common Symptoms
+### Common Signs
 
 - **Physical Signs:**
     - **Gill Lesions:** White mucoid patches and hyperplasia on the gill filaments [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd) [5](https://www.mdpi.com/2673-6772/2/4/23).
@@ -30,9 +30,9 @@ Amoebic Gill Disease (AGD) is a parasitic disease affecting various fish speci
     - **Increased Mucus Production:** Excessive mucus covering the gills [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd) [5](https://www.mdpi.com/2673-6772/2/4/23).
     - **Respiratory Distress:** Rapid or labored breathing due to impaired gill function [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd) [2](https://www.fishfarmingexpert.com/amoebic-gill-disease/1147466).
 
-- **Behavioral Changes:**
+- **Behavioural Changes:**
     - **Lethargy:** Reduced activity and slow swimming [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd) [2](https://www.fishfarmingexpert.com/amoebic-gill-disease/1147466).
-    - **Loss of Appetite:** Decreased feeding behavior and subsequent weight loss [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd).
+    - **Loss of Appetite:** Decreased feeding behaviour and subsequent weight loss [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd).
     - **Abnormal Swimming Patterns:** Fish may swim near the surface or close to aeration points to compensate for reduced oxygen uptake [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd) [2](https://www.fishfarmingexpert.com/amoebic-gill-disease/1147466).
 
 **Progression of Symptoms**
@@ -47,7 +47,7 @@ Amoebic Gill Disease (AGD) is a parasitic disease affecting various fish speci
 
 **Etiology**
 
-- **Causative Agent:** The amoeba _Neoparamoeba perurans_ [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd) [2](https://www.fishfarmingexpert.com/amoebic-gill-disease/1147466) [3](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/amoebic-gill-disease) [4](https://en.wikipedia.org/wiki/Amoebic_gill_disease).
+- **Causative Agent:** The amoeba *Neoparamoeba perurans* [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd) [2](https://www.fishfarmingexpert.com/amoebic-gill-disease/1147466) [3](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/amoebic-gill-disease) [4](https://en.wikipedia.org/wiki/Amoebic_gill_disease).
 
 - **Transmission Methods:**
     - **Direct Contact:** Spread between infected and healthy fish through close proximity [2](https://www.fishfarmingexpert.com/amoebic-gill-disease/1147466).
@@ -67,7 +67,7 @@ Amoebic Gill Disease (AGD) is a parasitic disease affecting various fish speci
 
 - **Laboratory Tests:**
     - **Histopathology:** Microscopic examination of gill tissues to identify characteristic lesions of AGD and the presence of amoeba [2](https://www.fishfarmingexpert.com/amoebic-gill-disease/1147466) [4](https://en.wikipedia.org/wiki/Amoebic_gill_disease).
-    - **PCR (Polymerase Chain Reaction):** Detects _Neoparamoeba perurans_ genetic material in gill tissues [3](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/amoebic-gill-disease).
+    - **PCR (Polymerase Chain Reaction):** Detects *Neoparamoeba perurans* genetic material in gill tissues [3](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/amoebic-gill-disease).
     - **Gill Smears:** Examination of gill smears under a microscope to identify amoebic cells [2](https://www.fishfarmingexpert.com/amoebic-gill-disease/1147466) [4](https://en.wikipedia.org/wiki/Amoebic_gill_disease).
 
 **Differential Diagnosis**
@@ -88,7 +88,7 @@ Amoebic Gill Disease (AGD) is a parasitic disease affecting various fish speci
 **Preventive Measures**
 
 - **Biosecurity Protocols:**
-    - Implementing strict biosecurity measures to prevent the introduction and spread of _Neoparamoeba perurans_ [2](https://www.fishfarmingexpert.com/amoebic-gill-disease/1147466).
+    - Implementing strict biosecurity measures to prevent the introduction and spread of *Neoparamoeba perurans* [2](https://www.fishfarmingexpert.com/amoebic-gill-disease/1147466).
     - Regular monitoring of water quality and gill health to detect and address early signs of AGD [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd) [2](https://www.fishfarmingexpert.com/amoebic-gill-disease/1147466).
 
 - **Farm Management Practices:**
@@ -173,7 +173,7 @@ Recent studies on Amoebic Gill Disease (AGD) have focused on various aspects of 
     Reference: Vera, L. M., & Migaud, H. (2016). Hydrogen peroxide treatment in Atlantic salmon induces stress and detoxification response in the absence of any impact on growth or amoebic gill disease challenge. Fish & Shellfish Immunology, 55, 73-83.  
     [Link to study](https://www.sciencedirect.com/science/article/pii/S1050464816301607)
 
-These studies represent advancements in understanding the biology and epidemiology of _Neoparamoeba perurans_, development of diagnostic tools for early and accurate detection, and investigations into potential treatments and preventive measures for AGD.
+These studies represent advancements in understanding the biology and epidemiology of *Neoparamoeba perurans*, development of diagnostic tools for early and accurate detection, and investigations into potential treatments and preventive measures for AGD.
 
 ## Conclusion
 

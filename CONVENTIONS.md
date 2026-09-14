@@ -2,8 +2,8 @@
 
 This document is the naming and structure standard referenced by `README.md`. It exists
 because the library grew to 25+ chapters with no written naming rule, and four
-incompatible patterns emerged as a result (see `AUDIT.md` for the evidence). New chapters
-and renames of existing ones should follow this spec.
+incompatible patterns emerged as a result. New chapters and renames of existing ones
+should follow this spec.
 
 ## 1. Naming
 
@@ -86,6 +86,7 @@ chapter.
 ## Research and References
 ### Latest Research Findings
 ## Conclusion
+### Call to Action
 ```
 
 Notes:
@@ -93,11 +94,9 @@ Notes:
 - Causes, Diagnosis, Treatment and Case Studies are `###` under `## Clinical Signs`'s
   sibling level — they are not children of Clinical Signs. Keep heading depth flat and
   consistent; do not promote some to `##` and leave others at `###` within the same file.
-- No `### Call to Action` / newsletter signup inside a clinical chapter. It reads as
-  marketing embedded in a veterinary reference.
 
-This structure builds on `draft/disease-chapter-template`, which should be merged before
-or alongside adopting this document — see `AUDIT.md` §5.
+This structure builds on `draft/disease-chapter-template` (see
+`Fish Disease Library/_Disease Chapter Template.md`).
 
 ## 4. Frontmatter
 
@@ -115,7 +114,7 @@ tags:
 ```
 
 Keep a single source of tags. Do not also maintain a separate inline `**Tags:**` line at
-the foot of the file — the two drift out of sync in practice (see `AUDIT.md` §E).
+the foot of the file — the two drift out of sync in practice.
 
 ## 5. Style
 
@@ -136,7 +135,7 @@ the foot of the file — the two drift out of sync in practice (see `AUDIT.md` �
 - Use `[[Chapter Name]]` for any reference to another chapter in this library, exactly as
   `CONTRIBUTING.md` already instructs. Never link to another chapter via its published
   `https://fishdiseases.manolinaqua.com/...` URL or an `obsidian://open?...` URI — both
-  break outside the author's own vault (see `AUDIT.md` §D).
+  break outside the author's own vault.
 - Run `python3 tools/check-links.py` before opening a PR that adds or renames a chapter.
   It resolves every wikilink and embed against the vault's actual files and flags the two
   fragile patterns above.
