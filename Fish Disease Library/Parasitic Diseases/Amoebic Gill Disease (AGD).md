@@ -5,7 +5,7 @@ tags:
   - AmoebicGillDisease
   - parasite
   - parasiticdisease
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - Trout
@@ -186,7 +186,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2024-08-15
 
-**Tags:** #AmoebicGillDisease, #Salmonoids, #Salmon, #AtlanticSalmon, #RainbowTrout , #Trout , #Salmon, #Norway, #Scotland, #parasiticdisease, #parasite 
+**Tags:** #AmoebicGillDisease, #Salmonids, #Salmon, #AtlanticSalmon, #RainbowTrout , #Trout , #Salmon, #Norway, #Scotland, #parasiticdisease, #parasite 
 ##### Other Parasitic Diseases
 [[Paranucleosporosis]]
 [[Parvicapsulosis]]

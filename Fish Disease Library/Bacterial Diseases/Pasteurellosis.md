@@ -1,6 +1,16 @@
 ---
 title: Pasteurellosis
 description: Learn about Pasteurellosis, a bacterial disease affecting Atlantic salmon and lumpsucker in aquaculture. Discover its symptoms, transmission methods, treatment options, and preventive measures to manage this significant threat in salmon farming.
+tags:
+  - Pasteurellosis
+  - BacterialDiseases
+  - Bacteria
+  - Salmonids
+  - Salmon
+  - AtlanticSalmon
+  - Lumpsucker
+  - Norway
+  - Scotland
 ---
 ## Overview
 

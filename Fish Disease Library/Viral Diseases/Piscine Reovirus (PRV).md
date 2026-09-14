@@ -5,7 +5,7 @@ tags:
   - PiscineReovirus
   - Virus
   - ViralDisease
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - ChinookSalmon
@@ -175,7 +175,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2024-07-26
 
-**Tags:** #PiscineReovirus, #PRV, #HSMI, #Salmonoids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #Chile, #Canada, #Scotland, #FaroeIslands, #ViralDisease, #Virus 
+**Tags:** #PiscineReovirus, #PRV, #HSMI, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #Chile, #Canada, #Scotland, #FaroeIslands, #ViralDisease, #Virus 
 
 ##### Viral Diseases
 [[Cardiomyopathy Syndrome (CMS)]]

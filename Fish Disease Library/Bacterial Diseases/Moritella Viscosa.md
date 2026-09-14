@@ -5,7 +5,7 @@ tags:
   - MoritellaViscosa
   - Bacteria
   - BacterialDiseases
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - Trout
@@ -231,7 +231,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Title:** Moritella viscosa
 **Date:** 2026-04-11
-**Tags:** #MoritellaViscosa, #Salmonoids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #Scotland, #Canada, #FaroeIslands,  #BacterialDiseases, #Bacteria, #WinterWounds 
+**Tags:** #MoritellaViscosa, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #Scotland, #Canada, #FaroeIslands,  #BacterialDiseases, #Bacteria, #WinterWounds 
 
 ##### Other Bacterial Diseases
 [[Bacterial Kidney Disease (BKD)]]

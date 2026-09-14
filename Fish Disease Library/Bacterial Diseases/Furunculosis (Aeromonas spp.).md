@@ -209,7 +209,7 @@ Furunculosis remains one of the most consequential bacterial diseases in global 
 [[Moritella Viscosa]]
 [[Pasteurellosis]]
 [[Salmonid Rickettsial Septicaemia (SRS)]]
-[[Tenacibaculum (Tenacibaculosis)]]
+[[Tenacibaculosis (Tenacibaculum spp)]]
 [[Vibriosis]]
 [[Winter Wounds]]
 [[Yersiniosis]]

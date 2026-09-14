@@ -5,7 +5,7 @@ tags:
   - CardiomyopathySyndrome
   - Virus
   - ViralDisease
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - Norway
@@ -171,7 +171,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2024-08-15
 
-**Tags:** #CardiomyopathySyndrome, #CMS, #Salmonoids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #BrownTrout, #Piscinemyocarditisvirus, #PMCV, #Norway, #Scotland, #Canada, #FaroeIslands, #ViralDisease, #Virus 
+**Tags:** #CardiomyopathySyndrome, #CMS, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #BrownTrout, #Piscinemyocarditisvirus, #PMCV, #Norway, #Scotland, #Canada, #FaroeIslands, #ViralDisease, #Virus 
 ##### Viral Diseases
 [[Heart and Muscle Inflammation (HSMI)]]
 [[Infectious Pancreatic Necrosis (IPN)]]

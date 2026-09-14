@@ -2,11 +2,11 @@
 title: Paranucleosporosis
 description: Learn about Paranucleosporosis, a parasitic disease in aquaculture fish like Atlantic salmon and rainbow trout. Caused by microsporidian parasites, it leads to muscle wasting and high mortality. Discover symptoms, causes, diagnosis, treatment, and prevention strategies for better fish health.
 tags:
-  - Parvicapsulosis
+  - Paranucleosporosis
   - Paranucleospora
   - parasite
   - parasiticdisease
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - Trout
@@ -153,7 +153,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2024-08-15
 
-**Tags:** #Paranucleosporosis, #microsporidiosis, #Paranucleospora, #Desmozoon, #Salmonoids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout 
+**Tags:** #Paranucleosporosis, #microsporidiosis, #Paranucleospora, #Desmozoon, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout 
 
 ##### Other Parasitic Diseases
 [[Amoebic Gill Disease (AGD)]]

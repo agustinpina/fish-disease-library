@@ -5,7 +5,7 @@ tags:
   - BacterialKidneyDisease
   - BacterialDiseases
   - Bacteria
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - Trout
@@ -175,7 +175,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2026-04-02
 
-**Tags:**  #BacterialKidneyDisease, #AtlanticSalmon, #RainbowTrout, #Trout, #Salmonoids #Salmon, #Norway, #Scotland,  #BacterialDiseases, #Bacteria 
+**Tags:**  #BacterialKidneyDisease, #AtlanticSalmon, #RainbowTrout, #Trout, #Salmonids #Salmon, #Norway, #Scotland,  #BacterialDiseases, #Bacteria 
 
 ##### Other Bacterial Diseases
 [[Moritella Viscosa]]

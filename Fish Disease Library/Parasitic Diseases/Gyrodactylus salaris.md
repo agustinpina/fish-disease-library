@@ -70,7 +70,7 @@ The dominant paradigm holds that Norwegian (East Atlantic) salmon are highly sus
 	  - ITS2 sequencing (ribosomal internal transcribed spacer 2) is used for species-level identification [8](https://link.springer.com/article/10.1186/s13071-016-1727-7)
   - Environmental DNA (eDNA) water sampling eliminates the labour intensity and lethal impact of conventional surveillance based on catching and killing sample fish [11](https://link.springer.com/article/10.1186/s13071-018-2916-3).
 
-## Treatments and Prevention
+## Treatment and Prevention
 
 ### Treatments
 
@@ -161,9 +161,9 @@ The dominant paradigm holds that Norwegian (East Atlantic) salmon are highly sus
 
 ##### Other Parasitic Diseases
 
-[[Salmon Lice]]
+[[Sea Lice]]
 [[Amoebic Gill Disease (AGD)]]
-[[Proliferative Kidney Disease (PKD)]]
+[[Proliferative Gill Disease]]
 
 **Citations:**
 

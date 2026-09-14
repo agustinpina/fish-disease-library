@@ -5,7 +5,7 @@ tags:
   - ProliferativeGillDisease
   - parasite
   - parasiticdisease
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
 ---
@@ -187,7 +187,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2024-08-15
 
-**Tags:** #ProliferativeGillDisease, #PGD, #Salmonoids, #Salmon, #AtlanticSalmon, #Catfish, #Trout, #RainbowTrout, #Salmonoids, #parasite, #parasiticdisease 
+**Tags:** #ProliferativeGillDisease, #PGD, #Salmonids, #Salmon, #AtlanticSalmon, #Catfish, #Trout, #RainbowTrout, #Salmonids, #parasite, #parasiticdisease 
 
 ##### Other Parasitic Diseases
 [[Amoebic Gill Disease (AGD)]]

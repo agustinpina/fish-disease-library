@@ -5,7 +5,7 @@ tags:
   - InfectiousSalmonAnemia
   - Virus
   - ViralDisease
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - Trout
@@ -22,7 +22,7 @@ Last E: Tony Chen (June 2025)
 ---
 ## Overview
 
-### What is ISA
+### What is ISA?
 
 Infectious Salmon Anemia (ISA) is a highly contagious viral disease that predominantly affects farmed Atlantic salmon (Salmo salar). Caused by the Infectious Salmon Anemia Virus (ISAV), it results in severe economic losses in aquaculture due to high mortality rates and the need for culling infected fish. First identified in Norway in 1984, ISA has since been reported in several countries, including Canada, the USA, Scotland, the Faroe Islands, Ireland, and Chile [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf)[2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa). While Atlantic salmon are the primary species affected clinically, ISAV can replicate in rainbow trout (Oncorhynchus mykiss) and sea trout (Salmo trutta L.) [2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
 
@@ -219,7 +219,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2024-7-26
 
-**Tags:** #InfectiousSalmonAnemia, #ISA, #ISAV, #Salmonoids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #SeaTrout, #Norway, #Scotland, #FaroeIslands, #Chile, #Canada, #ViralDisease, #Virus 
+**Tags:** #InfectiousSalmonAnemia, #ISA, #ISAV, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #SeaTrout, #Norway, #Scotland, #FaroeIslands, #Chile, #Canada, #ViralDisease, #Virus 
 
 ##### Viral Diseases
 [[Cardiomyopathy Syndrome (CMS)]]

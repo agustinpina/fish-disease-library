@@ -6,7 +6,7 @@ tags:
   - Piscirickettsiosis
   - BacterialDiseases
   - Bacteria
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - CohoSalmon
@@ -334,13 +334,13 @@ Effective SRS management requires an integrated approach combining robust biosec
 
 **Last Modified:** 2026-05-10
 
-**Tags:** #SRS, #Piscirickettsiosis, #PiscirickettsiaSalmonis, #Salmonoids, #Salmon, #AtlanticSalmon, #CohoSalmon, #Trout, #RainbowTrout, #Chile, #Norway, #Canada, #Scotland, #BacterialDiseases, #Bacteria
+**Tags:** #SRS, #Piscirickettsiosis, #PiscirickettsiaSalmonis, #Salmonids, #Salmon, #AtlanticSalmon, #CohoSalmon, #Trout, #RainbowTrout, #Chile, #Norway, #Canada, #Scotland, #BacterialDiseases, #Bacteria
 
 ##### Other Bacterial Diseases
 [[Bacterial Kidney Disease (BKD)]]
 [[Moritella Viscosa]]
 [[Pasteurellosis]]
-[[Tenacibaculum (Tenacibaculosis)]]
+[[Tenacibaculosis (Tenacibaculum spp)]]
 [[Winter Wounds]]
 [[Yersiniosis]]
 

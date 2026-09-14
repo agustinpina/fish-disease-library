@@ -6,8 +6,8 @@ tags:
   - BacterialDiseases
   - Bacteria
   - Vibrio
-  - VibioAnguillarum
-  - VibioHarveyi
+  - VibrioAnguillarum
+  - VibrioHarveyi
   - SeaBass
   - SeaBream
   - Salmon
@@ -338,7 +338,7 @@ Future research should prioritize: (a) characterization of emerging and novel _
 [Moritella Viscosa](https://fishdiseases.manolinaqua.com/bacterial-diseases/moritella-viscosa.html)  
 [Pasteurellosis](https://fishdiseases.manolinaqua.com/bacterial-diseases/pasteurellosis.html)  
 [Salmonid Rickettsial Septicaemia (SRS)](https://fishdiseases.manolinaqua.com/bacterial-diseases/salmonid-rickettsial-septicaemia-\(srs\).html)  
-[Tenacibaculum (Tenacibaculosis)](https://fishdiseases.manolinaqua.com/.html)  
+[Tenacibaculosis (Tenacibaculum spp)](https://fishdiseases.manolinaqua.com/bacterial-diseases/tenacibaculosis-\(tenacibaculum-spp\).html)  
 [Winter Wounds](https://fishdiseases.manolinaqua.com/bacterial-diseases/winter-wounds.html)  
 [Yersiniosis](https://fishdiseases.manolinaqua.com/bacterial-diseases/yersiniosis.html)
 

@@ -4,12 +4,12 @@ description: Learn about Hemorrhagic Diathesis in fish, a condition causing incr
 tags:
   - HemorrhagicDiathesis
   - environmentalconditions
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - Trout
   - RainbowTrout
-  - HemmorrhagicSmoltSyndrome
+  - HemorrhagicSmoltSyndrome
   - HSS
 ---
 ## Overview
@@ -134,7 +134,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2024-07-26
 
-**Tags:** #HemorrhagicDiathesis, #Salmonoids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #environmentalconditions, #HSS, #HemmorrhagicSmoltSyndrome 
+**Tags:** #HemorrhagicDiathesis, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #environmentalconditions, #HSS, #HemorrhagicSmoltSyndrome 
 
 ##### Other Environmental & Physical Conditions
 [[Gas Bubble Disease]]

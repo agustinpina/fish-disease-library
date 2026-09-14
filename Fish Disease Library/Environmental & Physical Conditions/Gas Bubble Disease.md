@@ -4,7 +4,7 @@ description: Learn about Gas Bubble Disease (GBD) in fish, a non-infectious cond
 tags:
   - GasBubbleDisease
   - environmentalconditions
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - Trout
@@ -142,7 +142,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2024-08-14
 
-**Tags:** #GasBubbleDisease, #Salmonoids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #Canada, #Chile, #Scotland, #environmentalconditions
+**Tags:** #GasBubbleDisease, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #Canada, #Chile, #Scotland, #environmentalconditions
 ##### Other Environmental & Physical Conditions
 [[Hemorrhagic Diathesis]]
 [[Nephrocalcinosis]]

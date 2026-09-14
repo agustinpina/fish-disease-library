@@ -5,7 +5,7 @@ tags:
   - WinterWounds
   - BacterialDiseases
   - Bacteria
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - Norway
@@ -154,7 +154,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2024-08-14
 
-**Tags:** #FishDisease, #WinterWounds, #Salmonoids, #AtlanticSalmon, #Trout, #ArcticChar, #Norway, #Scotland, #BacterialDiseases, #Bacteria, #MoritellaViscosa, #Tenacibaculummaritimum 
+**Tags:** #FishDisease, #WinterWounds, #Salmonids, #AtlanticSalmon, #Trout, #ArcticChar, #Norway, #Scotland, #BacterialDiseases, #Bacteria, #MoritellaViscosa, #Tenacibaculummaritimum 
 
 ##### Other Bacterial Diseases
 [[Bacterial Kidney Disease (BKD)]]

@@ -4,7 +4,7 @@ description: Learn about Nephrocalcinosis in aquaculture fish, including Atlanti
 tags:
   - Nephrocalcinosis
   - environmentalconditions
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - Trout
@@ -13,7 +13,7 @@ tags:
 ---
 ## Overview
 
-### What is Nephocalcinosis?
+### What is Nephrocalcinosis?
 Nephrocalcinosis is the term for an abnormal accumulation of mineral deposits within kidney tissue. It is a non-infectious condition affecting various fish species in aquaculture, including Atlantic salmon (_Salmo salar_), rainbow trout (_Oncorhynchus mykiss_), Atlantic cod, (_Gadus morhua_) [1](https://www.webofscience.com/wos/woscc/full-record/WOS:000302314800024), Nile Tilapia (_Oreochromis niloticus_) [2](https://www.cabidigitallibrary.org/doi/full/10.5555/20023010615), cobia (*Rachycentron canadum*) [3](https://eafp.org/download/2015-volume35/issue_4/35-4-138-klosterhoff.pdf) . It is primarily an accumulation of calcium phosphate deposits in the kidneys, leading to impaired kidney function and overall health, though in mild to moderate cases it can be reversed [4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10157097/) [5](https://nofima.com/results/has-documented-cause-of-kidney-stones-in-rainbow-trout/). Recirculating Aquaculture Systems (RAS) have a higher inherent risk than flow-through systems of fish developing the condition [6](https://www.sciencedirect.com/science/article/pii/S0044848622002204)
 
 ## Symptoms of Nephrocalcinosis
@@ -84,7 +84,7 @@ Nephrocalcinosis is the term for an abnormal accumulation of mineral deposits wi
 - **Distinguishing Nephrocalcinosis from Other Conditions:** 
 	- **Urocystolithiasis**, which is the formation of stones of plugs in the urinary bladder. This can occur from nephrocalcinosis but also from other reasons. In severe cases it can lead to complete blockage of the urinary tract [14](https://onlinelibrary.wiley.com/doi/10.1111/jfd.70099). 
 	- **Hemorrhagic Smolt Syndrome (HSS)/[[Hemorrhagic Diathesis]](HD)**: can often occur simutaneously, though looking at time series, nephrocalcinosis was mainly found earlier  [7](https://www.fhf.no/prosjekter/prosjektbasen/901588/)
-	- **BKD:** Kidney damage caused by nephrocalcinosis can, in some cases, resemble visible findings associated with the notifiable (in Norway) disease [[bacterial kidney disease (BKD)]] [8](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024/_/attachment/inline/6b11b72c-ee8f-4529-921f-1a3d85dc419e:2d59843d7c1e34e9200669ae47f2974d8ee51b6a/Fish%20Health%20Report%202024.pdf). 
+	- **BKD:** Kidney damage caused by nephrocalcinosis can, in some cases, resemble visible findings associated with the notifiable (in Norway) disease [[Bacterial Kidney Disease (BKD)]] [8](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024/_/attachment/inline/6b11b72c-ee8f-4529-921f-1a3d85dc419e:2d59843d7c1e34e9200669ae47f2974d8ee51b6a/Fish%20Health%20Report%202024.pdf). 
 	- **Chronic granulomatous inflammation with secondary calcification** (= an enclosing of a problem the fish can’t remove, which then becomes mineralized with calcium) can appear the same as nephrocalcinosis when using x-ray radiography  [6b](https://pmc.ncbi.nlm.nih.gov/articles/PMC9804365/)
 
 ## Treatment and Prevention
@@ -167,7 +167,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2026-06-02
 
-**Tags:** #Nephrocalcinosis, #Salmonoids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #environmentalconditions 
+**Tags:** #Nephrocalcinosis, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #environmentalconditions 
 
 ##### Other Environmental & Physical Conditions
 [[Gas Bubble Disease]]

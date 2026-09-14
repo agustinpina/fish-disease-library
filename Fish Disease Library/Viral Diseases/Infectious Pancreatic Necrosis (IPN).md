@@ -5,7 +5,7 @@ tags:
   - InfectiousPancreaticNecrosis
   - Virus
   - ViralDisease
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - Trout
@@ -160,7 +160,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2024-07-26
 
-**Tags:** #InfectiousPancreaticNecrosis, #IPN, #IPNV, #InfectiousPancreaticNecrosisVirus #Birnaviridae, #Salmonoids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #ViralDisease, #Virus 
+**Tags:** #InfectiousPancreaticNecrosis, #IPN, #IPNV, #InfectiousPancreaticNecrosisVirus #Birnaviridae, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #ViralDisease, #Virus 
 ##### Viral Diseases
 [[Cardiomyopathy Syndrome (CMS)]]
 [[Heart and Muscle Inflammation (HSMI)]]

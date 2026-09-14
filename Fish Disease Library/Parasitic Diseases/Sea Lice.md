@@ -5,7 +5,7 @@ tags:
   - SeaLice
   - parasite
   - parasiticdisease
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - Trout
@@ -197,7 +197,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2024-08-15
 
-**Tags:**  #SeaLice, #Salmonoids, #Trout, #AtlanticSalmon, #Norway, #Scotland, #Chile, #parasiticdisease, #parasite, #lepeophtheirussalmonis, #caligusrogercresseyi
+**Tags:**  #SeaLice, #Salmonids, #Trout, #AtlanticSalmon, #Norway, #Scotland, #Chile, #parasiticdisease, #parasite, #lepeophtheirussalmonis, #caligusrogercresseyi
 ##### Other Parasitic Diseases
 [[Amoebic Gill Disease (AGD)]]
 [[Paranucleosporosis]]

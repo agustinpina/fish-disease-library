@@ -5,7 +5,7 @@ tags:
   - HeartandSkeletalMuscleInflammation
   - Virus
   - ViralDisease
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - CohoSalmon
@@ -157,7 +157,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Title:** Heart and Skeletal Muscle Inflammation
 **Date:** 2024-07-12
-**Tags:** #HeartandSkeletalMuscleInflammation, #HSMI, #Salmonoids #Salmon, #AtlanticSalmon, #CohoSalmon #PiscineOrthoreovirus, #PRV, #Trout, #RainbowTrout, #ViralDisease, #Virus 
+**Tags:** #HeartandSkeletalMuscleInflammation, #HSMI, #Salmonids #Salmon, #AtlanticSalmon, #CohoSalmon #PiscineOrthoreovirus, #PRV, #Trout, #RainbowTrout, #ViralDisease, #Virus 
 ##### Viral Diseases
 [[Cardiomyopathy Syndrome (CMS)]]
 [[Infectious Pancreatic Necrosis (IPN)]]

@@ -5,7 +5,7 @@ tags:
   - Parvicapsulosis
   - parasite
   - parasiticdisease
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - Norway
@@ -185,7 +185,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2024-07-26
 
-**Tags:** #Parvicapsulosis, #Parvicapsulapseudobranchicola, #Salmonoids, #Salmon, #AtlanticSalmon,  #Norway, #Canada, #parasiticdisease, #parasite 
+**Tags:** #Parvicapsulosis, #Parvicapsulapseudobranchicola, #Salmonids, #Salmon, #AtlanticSalmon,  #Norway, #Canada, #parasiticdisease, #parasite 
 
 ##### Other Parasitic Diseases
 [[Amoebic Gill Disease (AGD)]]
