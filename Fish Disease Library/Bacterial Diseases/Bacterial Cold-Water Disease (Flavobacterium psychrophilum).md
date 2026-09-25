@@ -69,7 +69,7 @@ Bacterial Cold-Water Disease (BCWD, the term generally used in North America) �
 **Treatment Options**
 
 - **Current Treatments:**
-    - **Antibiotics:** Antimicrobial resistance (AMR) profiling of *F. psychrophilum* shows a consistent pattern across geographically distant farming regions: florfenicol retains high effectiveness, while resistance to oxytetracycline and quinolones is widespread. In Slovenia, 86.3% of isolates were non-wild-type (reduced susceptibility) for oxytetracycline and enrofloxacin and 90.2% for oxolinic acid, while all isolates remained fully susceptible to florfenicol and erythromycin; reduced oxolinic acid susceptibility was linked to a T83A or T83V substitution in the *gyrA* gene [4](https://doi.org/10.1111/jfd.14119). In Chile, MIC-based testing found non-wild-type frequencies of 70% for oxytetracycline and 38–45% for the quinolones oxolinic acid, flumequine, and enrofloxacin, but only 8% for florfenicol [2](https://doi.org/10.3389/fmicb.2016.01880).
+    - **Antibiotics:** Antimicrobial resistance (AMR) profiling of *F. psychrophilum* shows a consistent pattern across geographically distant farming regions: florfenicol retains high effectiveness, while resistance to oxytetracycline and quinolones is widespread. In Slovenia, 86.3% of isolates were non-wild-type (reduced susceptibility) for oxytetracycline and enrofloxacin and 90.2% for oxolinic acid, while all isolates remained fully susceptible to florfenicol and erythromycin; reduced oxolinic acid susceptibility was linked to a T83A or T83V substitution in the *gyrA* gene [4](https://doi.org/10.1111/jfd.14119). In Chile, MIC-based testing found non-wild-type frequencies of 70% for oxytetracycline and 38–45% for the quinolones oxolinic acid, flumequine, and enrofloxacin, but only 2% for florfenicol (8% by disk diffusion) [2](https://doi.org/10.3389/fmicb.2016.01880).
 
 - **Vaccines:**
     - **Subunit and Attenuated Candidates:** No consistently effective, widely available commercial vaccine exists against *F. psychrophilum*, hampered by the bacterium's antigenic and genetic diversity. Candidate antigens — OmpH, OmpA, FspA, and lipopolysaccharide — have been identified using sera from convalescent rainbow trout, and an attenuated *exbD2* mutant strain achieved 81.8% relative percent survival (RPS) after intramuscular immunization and challenge [8](https://doi.org/10.1111/1751-7915.12099).
@@ -110,7 +110,7 @@ no clearly-sourced case-study narrative was identified in this pass. -->
     - *F. psychrophilum* is described as the most important bacterial pathogen of freshwater farmed salmonids in Chile, with 125 isolates characterized from reared salmonids showing clinical signs of disease [2](https://doi.org/10.3389/fmicb.2016.01880).
 
 - **Treatment & Management:**
-    - MIC-based epidemiological cut-off analysis found non-wild-type frequencies of 70% for oxytetracycline and 38–45% for the quinolones oxolinic acid, flumequine, and enrofloxacin, while only 8% of isolates showed reduced susceptibility to florfenicol — a resistance pattern broadly consistent with the Slovenian data above despite the geographic distance between the two surveys [2](https://doi.org/10.3389/fmicb.2016.01880).
+    - MIC-based epidemiological cut-off analysis found non-wild-type frequencies of 70% for oxytetracycline and 38–45% for the quinolones oxolinic acid, flumequine, and enrofloxacin, while only 2% of isolates (8% by disk diffusion) showed reduced susceptibility to florfenicol — a resistance pattern broadly consistent with the Slovenian data above despite the geographic distance between the two surveys [2](https://doi.org/10.3389/fmicb.2016.01880).
 
 ## Research and References
 
@@ -127,7 +127,7 @@ Recent studies on Bacterial Cold-Water Disease / RTFS have focused on taxonomy, 
 2. **"Antimicrobial Susceptibility of *Flavobacterium psychrophilum* from Chilean Salmon Farms and Their Epidemiological Cut-Off Values Using Agar Dilution and Disk Diffusion Methods"**
     Authors: Miranda, C. D., Smith, P., Rojas, R., et al.
     Reference: *Frontiers in Microbiology*, 2016; *7*, 1880.
-    Key findings: Chilean isolates showed high non-wild-type frequencies for oxytetracycline (70%) and quinolones (38–45%), but only 8% for florfenicol.
+    Key findings: Chilean isolates showed high non-wild-type frequencies for oxytetracycline (70%) and quinolones (38–45%), but only 2% for florfenicol by MIC (8% by disk diffusion).
     [DOI: 10.3389/fmicb.2016.01880](https://doi.org/10.3389/fmicb.2016.01880)
 
 3. **"Development and evaluation of a multiplex PCR assay for simultaneous detection of *Flavobacterium psychrophilum*, *Yersinia ruckeri* and *Aeromonas salmonicida* subsp. *salmonicida* in culture fisheries"**
