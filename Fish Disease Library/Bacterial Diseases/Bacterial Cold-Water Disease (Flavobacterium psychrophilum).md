@@ -151,7 +151,7 @@ Recent studies on Bacterial Cold-Water Disease / RTFS have focused on taxonomy, 
 6. **"Phenotypic and Genetic Predictors of Pathogenicity and Virulence in *Flavobacterium psychrophilum*"**
     Authors: Sundell, K., Landor, L., Nicolas, P., et al.
     Reference: *Frontiers in Microbiology*, 2019; *10*, 1711.
-    Key findings: Colony spreading motility and proteolytic activity were the traits most associated with virulence across 26 isolates.
+    Key findings: No phenotypic trait significantly predicted virulence across 26 isolates; the single non-virulent isolate lacked both colony spreading motility and proteolytic activity.
     [DOI: 10.3389/fmicb.2019.01711](https://doi.org/10.3389/fmicb.2019.01711)
 
 7. **"More Than Gliding: Involvement of GldD and GldG in the Virulence of *Flavobacterium psychrophilum*"**
