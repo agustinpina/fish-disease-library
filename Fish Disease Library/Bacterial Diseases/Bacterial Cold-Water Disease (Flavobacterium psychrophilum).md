@@ -39,16 +39,15 @@ Bacterial Cold-Water Disease (BCWD, the term generally used in North America) �
 
 **Etiology**
 
-- **Causative Agent:** *F. psychrophilum* is a Gram-negative rod, 0.3–0.5 μm in diameter, that is non-flagellated and either non-motile or displays gliding motility; it is fastidious and generally does not grow on standard media such as trypticase soy agar [1](https://doi.org/10.1016/j.jare.2014.10.009). It shows limited genomic diversity worldwide, with the MLST clonal complex CC-ST10 accounting for the majority of BCWD/RTFS outbreaks globally [5](https://doi.org/10.3389/fmicb.2018.00138).
+- **Causative Agent:** *F. psychrophilum* is a Gram-negative rod (members of the genus measure 0.3–0.5 μm in diameter) that is non-flagellated and either non-motile or displays gliding motility; it is fastidious and generally does not grow on standard media such as trypticase soy agar [1](https://doi.org/10.1016/j.jare.2014.10.009). It shows limited genomic diversity worldwide, with the MLST clonal complex CC-ST10 being the main clonal complex infecting farmed rainbow trout worldwide [5](https://doi.org/10.3389/fmicb.2018.00138).
 - **Key Virulence Factors:** Colony spreading motility and proteolytic activity are required for pathogenicity — in a comparative study, the only non-virulent isolate tested was deficient in both traits [6](https://doi.org/10.3389/fmicb.2019.01711). The *gldD* and *gldG* genes, part of the gliding-motility/Type IX secretion system (T9SS), are required for adhesion, biofilm formation, proteolytic activity, and full virulence; mutants deficient in either gene showed significantly reduced virulence in rainbow trout challenge models [7](https://doi.org/10.3389/fmicb.2017.02168).
 - **Transmission Methods:**
     - **Horizontal Transmission:** Both live and dead fish shed *F. psychrophilum* into the surrounding water; dead fish shed the bacterium at markedly higher rates and for longer durations than live fish, and shedding dynamics vary by bacterial genetic variant and host species [10](https://doi.org/10.1128/spectrum.03601-23).
-    - **Vertical Transmission:** *F. psychrophilum* has been isolated from milt, ovarian fluids, and in close association with eggs, supporting a vertical transmission route that operates alongside horizontal transmission [11](https://doi.org/10.3390/microorganisms9050971).
-    - **Vector/Environmental Transmission:** Standard iodine-based egg disinfection protocols in hatcheries are used to reduce pathogen load on eggs and limit transmission to the next generation; experimentally, bacteriophages have also shown short-term (24-hour) potential as a biocontrol agent against *F. psychrophilum* on eyed eggs without affecting egg survival [11](https://doi.org/10.3390/microorganisms9050971).
+    - **Vertical / Egg-Associated Transmission:** *F. psychrophilum* has been isolated from milt, ovarian fluids, and in close association with eggs, supporting a vertical transmission route that operates alongside horizontal transmission [11](https://doi.org/10.3390/microorganisms9050971).
 
 **Risk Factors**
 
-- **Environmental Factors:** RTFS onset accelerates with increasing water temperature, while increasing salinity delays onset and improves survival [9](https://doi.org/10.1111/jfd.70037).
+- **Environmental Factors:** In one experimental study, raising water temperature to 18 °C shortened the time to clinical disease — an unexpected result, since outbreaks are typically reported at colder temperatures — while 1% salinity delayed onset and improved cohabitant survival (42.6% vs 17.9%) [9](https://doi.org/10.1111/jfd.70037).
 - **Farm Management Practices:** Prompt removal of dead and moribund fish is a key control point, since dead fish are disproportionate shedders of *F. psychrophilum* into hatchery and farm water [10](https://doi.org/10.1128/spectrum.03601-23).
 
 ### Diagnosis
@@ -62,28 +61,29 @@ Bacterial Cold-Water Disease (BCWD, the term generally used in North America) �
 
 **Differential Diagnosis**
 
-- **Distinguishing BCWD/RTFS from Other Diseases:** Clinical signs overlap with enteric redmouth disease (*Yersinia ruckeri*) and furunculosis (*Aeromonas salmonicida*), making molecular confirmation necessary; the multiplex PCR assay validated for these three pathogens allows them to be ruled in or out from the same sample [3](https://doi.org/10.4142/jvs.2010.11.3.235).
+- **Distinguishing BCWD/RTFS from Other Diseases:** A multiplex PCR assay developed for *F. psychrophilum*, *Y. ruckeri* and *A. salmonicida* subsp. *salmonicida* allows all three to be identified from the same sample [3](https://doi.org/10.4142/jvs.2010.11.3.235).
 
 ### Treatment and Prevention
 
 **Treatment Options**
 
 - **Current Treatments:**
-    - **Antibiotics:** Antimicrobial resistance (AMR) profiling of *F. psychrophilum* shows a consistent pattern across geographically distant farming regions: florfenicol retains high effectiveness, while resistance to oxytetracycline and quinolones is widespread. In Slovenia, 86.3% of isolates were non-wild-type (reduced susceptibility) for oxytetracycline and enrofloxacin and 90.2% for oxolinic acid, while all isolates remained fully susceptible to florfenicol and erythromycin; reduced oxolinic acid susceptibility was linked to a T83A or T83V substitution in the *gyrA* gene [4](https://doi.org/10.1111/jfd.14119). In Chile, MIC-based testing found non-wild-type frequencies of 70% for oxytetracycline and 38–45% for the quinolones oxolinic acid, flumequine, and enrofloxacin, but only 2% for florfenicol (8% by disk diffusion) [2](https://doi.org/10.3389/fmicb.2016.01880).
+    - **Antibiotics:** Antimicrobial resistance (AMR) profiling of *F. psychrophilum* shows a consistent pattern across geographically distant farming regions: florfenicol retains high effectiveness, while resistance to oxytetracycline and quinolones is widespread. In Slovenia, 86.3% of isolates were non-wild-type (reduced susceptibility) for oxytetracycline and enrofloxacin and 90.2% for oxolinic acid, while all isolates were wild-type for florfenicol and erythromycin; reduced oxolinic acid susceptibility was linked to a T83A or T83V substitution in the *gyrA* gene [4](https://doi.org/10.1111/jfd.14119). In Chile, MIC-based testing found non-wild-type frequencies of 70% for oxytetracycline and 38–45% for the quinolones oxolinic acid, flumequine, and enrofloxacin, but only 2% for florfenicol (8% by disk diffusion) [2](https://doi.org/10.3389/fmicb.2016.01880).
 
 - **Vaccines:**
-    - **Subunit and Attenuated Candidates:** No consistently effective, widely available commercial vaccine exists against *F. psychrophilum*, hampered by the bacterium's antigenic and genetic diversity. Candidate antigens — OmpH, OmpA, FspA, and lipopolysaccharide — have been identified using sera from convalescent rainbow trout, and an attenuated *exbD2* mutant strain achieved 81.8% relative percent survival (RPS) after intramuscular immunization and challenge [8](https://doi.org/10.1111/1751-7915.12099).
+    - **Subunit and Attenuated Candidates:** Vaccine development has been hampered by the bacterium's antigenic and genetic diversity. Candidate antigens — OmpH, OmpA, FspA, and lipopolysaccharide — have been identified using sera from convalescent rainbow trout, and an attenuated *exbD2* mutant strain achieved 81.8% relative percent survival (RPS) after intramuscular immunization and challenge [8](https://doi.org/10.1111/1751-7915.12099).
     - **Polyvalent Immersion Vaccine:** A polyvalent immersion vaccine combining three formalin-inactivated *F. psychrophilum* strains gave 84% RPS in rainbow trout fry against a heterologous strain challenge, with vaccinated fish also showing a delayed mortality onset compared to unvaccinated controls [13](https://doi.org/10.1186/s13567-017-0448-z).
     - **Vaccine Implementation:** Commercial vaccines against *F. psychrophilum* remain available in only a limited number of countries (Chile, Norway), and none are suitable for the juvenile fry that bear the highest disease burden, leaving antibiotics as the primary recourse during an outbreak in most regions [13](https://doi.org/10.1186/s13567-017-0448-z).
 
 **Preventive Measures**
 
 - **Biosecurity Protocols:**
-    - Iodine-based egg disinfection to reduce vertical/egg-associated transmission of *F. psychrophilum* [11](https://doi.org/10.3390/microorganisms9050971).
+    - Iodine-based egg disinfection, standard in salmonid hatcheries, reduces surface bacterial load but does not sterilise eggs, and intra-ovum infection has been reported [11](https://doi.org/10.3390/microorganisms9050971).
+    - Experimental: bacteriophages showed short-term (24 h) control of *F. psychrophilum* on eyed eggs without affecting egg survival [11](https://doi.org/10.3390/microorganisms9050971).
     - Prompt removal of dead and moribund fish to reduce the disproportionate shedding load they contribute to hatchery and farm water [10](https://doi.org/10.1128/spectrum.03601-23).
 
 - **Farm Management Practices:**
-    - Managing water temperature and salinity where feasible, given their strong influence on RTFS onset and fry survival [9](https://doi.org/10.1111/jfd.70037).
+    - Managing water temperature and salinity where feasible, which experimentally influenced RTFS onset and fry survival [9](https://doi.org/10.1111/jfd.70037).
 
 ### Case Studies
 
@@ -102,7 +102,7 @@ no clearly-sourced case-study narrative was identified in this pass. -->
     - A survey of Slovenian farmed rainbow trout confirmed the presence of *F. psychrophilum* (51 isolates characterized) [4](https://doi.org/10.1111/jfd.14119).
 
 - **Treatment & Management:**
-    - 86.3% of isolates showed reduced susceptibility to oxytetracycline and enrofloxacin, and 90.2% to oxolinic acid, while all isolates remained fully susceptible to florfenicol and erythromycin [4](https://doi.org/10.1111/jfd.14119).
+    - 86.3% of isolates showed reduced susceptibility to oxytetracycline and enrofloxacin, and 90.2% to oxolinic acid, while all isolates were wild-type for florfenicol and erythromycin [4](https://doi.org/10.1111/jfd.14119).
 
 #### Chile
 
@@ -120,7 +120,7 @@ Recent studies on Bacterial Cold-Water Disease / RTFS have focused on taxonomy, 
 
 1. **"Emerging flavobacterial infections in fish: A review"**
     Authors: Loch, T. P., & Faisal, M.
-    Reference: *Journal of Advanced Research*, 2014; *6*(3), 283–300.
+    Reference: *Journal of Advanced Research*, 2015; *6*(3), 283–300.
     Key findings: Identifies *F. psychrophilum*, *F. columnare*, and *F. branchiophilum* as the three principal fish-pathogenic *Flavobacterium* species.
     [DOI: 10.1016/j.jare.2014.10.009](https://doi.org/10.1016/j.jare.2014.10.009)
 
@@ -138,14 +138,14 @@ Recent studies on Bacterial Cold-Water Disease / RTFS have focused on taxonomy, 
 
 4. **"Phenotypic and Genotypic Antimicrobial Resistance Profiles of *Flavobacterium psychrophilum* and *Flavobacterium branchiophilum* Isolated From Rainbow Trout (*Oncorhynchus mykiss*) in Slovenia"**
     Authors: Pavlin, K., Papić, B., Zdovc, I., et al.
-    Reference: *Journal of Fish Diseases*, 2025; e14119.
+    Reference: *Journal of Fish Diseases*, 2025; *48*(7), e14119.
     Key findings: *F. psychrophilum* showed high resistance to oxytetracycline and quinolones but full susceptibility to florfenicol.
     [DOI: 10.1111/jfd.14119](https://doi.org/10.1111/jfd.14119)
 
 5. **"Genomic Diversity and Evolution of the Fish Pathogen *Flavobacterium psychrophilum*"**
     Authors: Duchaud, E., Rochat, T., Habib, C., et al.
     Reference: *Frontiers in Microbiology*, 2018; *9*, 138.
-    Key findings: Whole-genome analysis found limited genomic diversity in *F. psychrophilum*, with clonal complex CC-ST10 dominating outbreaks worldwide.
+    Key findings: Whole-genome analysis found limited genomic diversity in *F. psychrophilum*, with clonal complex CC-ST10 predominating in farmed rainbow trout worldwide.
     [DOI: 10.3389/fmicb.2018.00138](https://doi.org/10.3389/fmicb.2018.00138)
 
 6. **"Phenotypic and Genetic Predictors of Pathogenicity and Virulence in *Flavobacterium psychrophilum*"**
@@ -163,12 +163,12 @@ Recent studies on Bacterial Cold-Water Disease / RTFS have focused on taxonomy, 
 8. **"*Flavobacterium psychrophilum* vaccine development: a difficult task"**
     Authors: Gómez, E., Méndez, J., Cascales, D., & Guijarro, J. A.
     Reference: *Microbial Biotechnology*, 2014; *7*(5), 414–423.
-    Key findings: Reviews candidate vaccine antigens; an attenuated *exbD2* mutant achieved 81.8% RPS, though no commercial vaccine yet exists.
+    Key findings: Reviews candidate vaccine antigens; an attenuated *exbD2* mutant achieved 81.8% RPS, (commercial vaccines have since become available in Chile and Norway [13](https://doi.org/10.1186/s13567-017-0448-z)).
     [DOI: 10.1111/1751-7915.12099](https://doi.org/10.1111/1751-7915.12099)
 
 9. **"Effects of Increased Water Salinity and Temperature on the Development of Rainbow Trout Fry Syndrome (RTFS) Caused by *Flavobacterium psychrophilum*"**
     Authors: Donati, V. L., Lorenzen, N., & Madsen, L.
-    Reference: *Journal of Fish Diseases*, 2025; e70037.
+    Reference: *Journal of Fish Diseases*, 2026; *49*(2), e70037.
     Key findings: Higher temperature accelerated RTFS onset, while higher salinity delayed onset and improved fry survival.
     [DOI: 10.1111/jfd.70037](https://doi.org/10.1111/jfd.70037)
 
@@ -198,7 +198,7 @@ Recent studies on Bacterial Cold-Water Disease / RTFS have focused on taxonomy, 
 
 ## Conclusion
 
-*F. psychrophilum* causes substantial, recurring losses in cold-water salmonid hatcheries worldwide. The most effective management strategies currently available combine water-temperature and salinity management, prompt removal of dead and moribund fish to limit shedding, iodine-based egg disinfection to interrupt vertical transmission, and judicious antibiotic use guided by local resistance surveillance — florfenicol remains broadly effective across geographically distant farming regions (Slovenia, Chile), even where resistance to oxytetracycline and quinolones is already widespread. No commercially robust, broadly available vaccine yet exists, and none of the limited vaccines that do exist are suitable for the juvenile fry that bear the greatest disease burden, leaving antibiotics as the default response to most outbreaks.
+*F. psychrophilum* causes substantial, recurring losses in cold-water salmonid hatcheries worldwide. The most effective management strategies currently available combine water-temperature and salinity management, prompt removal of dead and moribund fish to limit shedding, iodine-based egg disinfection to reduce egg-associated bacterial load, and judicious antibiotic use guided by local resistance surveillance — florfenicol remains broadly effective across geographically distant farming regions (Slovenia, Chile), even where resistance to oxytetracycline and quinolones is already widespread. No commercially robust, broadly available vaccine yet exists, and none of the limited vaccines that do exist are suitable for the juvenile fry that bear the greatest disease burden, leaving antibiotics as the default response to most outbreaks.
 
 Bacteriophage-based biocontrol, while still preliminary, merits continued investigation as a non-antibiotic intervention, particularly around the egg stage where vertical transmission can be intercepted. Country-level surveillance data remains sparse outside of the handful of farming regions covered here, and discrete, well-documented outbreak case studies — as opposed to general AMR surveys — were not identified for this chapter and remain an open item for a future research pass.
 
@@ -224,13 +224,13 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Citations:**
 
-[1] Loch, T. P., & Faisal, M. (2014). Emerging flavobacterial infections in fish: A review. *Journal of Advanced Research*, *6*(3), 283–300. https://doi.org/10.1016/j.jare.2014.10.009
+[1] Loch, T. P., & Faisal, M. (2015). Emerging flavobacterial infections in fish: A review. *Journal of Advanced Research*, *6*(3), 283–300. https://doi.org/10.1016/j.jare.2014.10.009
 
 [2] Miranda, C. D., Smith, P., Rojas, R., Contreras-Lynch, S., & Alonso Vega, J. M. (2016). Antimicrobial susceptibility of *Flavobacterium psychrophilum* from Chilean salmon farms and their epidemiological cut-off values using agar dilution and disk diffusion methods. *Frontiers in Microbiology*, *7*, 1880. https://doi.org/10.3389/fmicb.2016.01880
 
 [3] Onuk, E. E., Ciftci, A., Findik, A., & Durmaz, Y. (2010). Development and evaluation of a multiplex PCR assay for simultaneous detection of *Flavobacterium psychrophilum*, *Yersinia ruckeri* and *Aeromonas salmonicida* subsp. *salmonicida* in culture fisheries. *Journal of Veterinary Science*, *11*(3), 235–241. https://doi.org/10.4142/jvs.2010.11.3.235
 
-[4] Pavlin, K., Papić, B., Zdovc, I., Knific, T., Gruntar, I., Sitar, R., Žele Vengušt, D., Seničar, M., Ocepek, M., & Švara, T. (2025). Phenotypic and genotypic antimicrobial resistance profiles of *Flavobacterium psychrophilum* and *Flavobacterium branchiophilum* isolated from rainbow trout (*Oncorhynchus mykiss*) in Slovenia. *Journal of Fish Diseases*, e14119. https://doi.org/10.1111/jfd.14119
+[4] Pavlin, K., Papić, B., Zdovc, I., Knific, T., Gruntar, I., Sitar, R., Žele Vengušt, D., Seničar, M., Ocepek, M., & Švara, T. (2025). Phenotypic and genotypic antimicrobial resistance profiles of *Flavobacterium psychrophilum* and *Flavobacterium branchiophilum* isolated from rainbow trout (*Oncorhynchus mykiss*) in Slovenia. *Journal of Fish Diseases*, *48*(7), e14119. https://doi.org/10.1111/jfd.14119
 
 [5] Duchaud, E., Rochat, T., Habib, C., Barbier, P., Loux, V., Guérin, C., Dalsgaard, I., Madsen, L., Nilsen, H., Sundell, K., Wiklund, T., Strepparava, N., Wahli, T., Caburlotto, G., Manfrin, A., Wiens, G. D., Fujiwara-Nagata, E., Avendaño-Herrera, R., Bernardet, J.-F., & Nicolas, P. (2018). Genomic diversity and evolution of the fish pathogen *Flavobacterium psychrophilum*. *Frontiers in Microbiology*, *9*, 138. https://doi.org/10.3389/fmicb.2018.00138
 
@@ -240,7 +240,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [8] Gómez, E., Méndez, J., Cascales, D., & Guijarro, J. A. (2014). *Flavobacterium psychrophilum* vaccine development: a difficult task. *Microbial Biotechnology*, *7*(5), 414–423. https://doi.org/10.1111/1751-7915.12099
 
-[9] Donati, V. L., Lorenzen, N., & Madsen, L. (2025). Effects of increased water salinity and temperature on the development of rainbow trout fry syndrome (RTFS) caused by *Flavobacterium psychrophilum*. *Journal of Fish Diseases*, e70037. https://doi.org/10.1111/jfd.70037
+[9] Donati, V. L., Lorenzen, N., & Madsen, L. (2026). Effects of increased water salinity and temperature on the development of rainbow trout fry syndrome (RTFS) caused by *Flavobacterium psychrophilum*. *Journal of Fish Diseases*, *49*(2), e70037. https://doi.org/10.1111/jfd.70037
 
 [10] Knupp, C., Soto, E., & Loch, T. P. (2024). Varying *Flavobacterium psychrophilum* shedding dynamics in three bacterial coldwater disease-susceptible salmonid (family Salmonidae) species. *Microbiology Spectrum*, *12*(2), e0360123. https://doi.org/10.1128/spectrum.03601-23
 
