@@ -80,7 +80,18 @@ Bacterial Cold-Water Disease (BCWD, the term generally used in North America), a
 
 **Differential Diagnosis**
 
-- **Distinguishing BCWD/RTFS from Other Diseases:** A multiplex PCR assay developed for *F. psychrophilum*, *Y. ruckeri* and *A. salmonicida* subsp. *salmonicida* allows all three to be identified from the same sample [3](https://doi.org/10.4142/jvs.2010.11.3.235).
+- **Other Flavobacterial Diseases:**
+    - **Columnaris disease** (*F. columnare*): also produces yellowish skin lesions, eroded fins, and gill necrosis, but outbreaks have historically been associated with summer, whereas *F. psychrophilum* frequently causes disease below 10 °C [1](https://doi.org/10.1016/j.jare.2014.10.009).
+    - **Bacterial gill disease** (*F. branchiophilum*): damage is confined to the gills (bacterial growth over the gill surface, excess mucus, and fused lamellae), with fish otherwise appearing normal until death [1](https://doi.org/10.1016/j.jare.2014.10.009). Affected fish show increased opercular movements, gasping at the surface, and respiratory distress [29](https://doi.org/10.3390/ani11010125).
+    - **Other yellow-pigmented flavobacteria:** previously uncharacterized *Flavobacterium* and *Chryseobacterium* species have caused lesions very similar to BCWD, including erosion of the adipose fin, multifocal ulcers, and exophthalmia [1](https://doi.org/10.1016/j.jare.2014.10.009). Telling them apart requires laboratory identification, and MALDI-TOF mass spectrometry has been used to differentiate *F. psychrophilum* from *F. psychrophilum*-like species [29](https://doi.org/10.3390/ani11010125).
+    - **Tenacibaculosis** ([[Tenacibaculosis (Tenacibaculum spp)]]): causes skin erosions, ulcers, and eroded fins, head, and gills [29](https://doi.org/10.3390/ani11010125). It should be considered when ulcers appear after transfer to brackish or sea water, such as in coho salmon in estuaries [28](https://marcosgodoy.com/flavobacteriosis-en-salmon-coho-oncorhynchus-kisutch-en-estuario-patologia-macroscopica/).
+- **Diseases with Overlapping Signs:**
+    - **Yersiniosis** ([[Yersiniosis (enteric redmouth disease)]]): lethargy, darkening of the skin, exophthalmia, and haemorrhages in and around the mouth and throat [31](https://doi.org/10.1186/s13567-015-0238-4).
+    - **Furunculosis** ([[Furunculosis (Aeromonas spp.)]]): lethargy, darkened skin, exophthalmia, haemorrhages at the base of the fins, enlarged spleen, and skin lesions and ulcers [29](https://doi.org/10.3390/ani11010125).
+    - **Viral diseases of fry:** infectious pancreatic necrosis ([[Infectious Pancreatic Necrosis (IPN)]]) and infectious haematopoietic necrosis (IHN) both cause darkened skin and exophthalmia, with irregular swimming in IPN and lethargy in IHN [29](https://doi.org/10.3390/ani11010125).
+    - **Whirling disease** (*Myxobolus cerebralis*): causes blacktail, spinal and cranial deformities, and exophthalmia in young rainbow trout. BCWD can also produce blacktail, spiral swimming, and spinal deformities, and both pathogens can be present in the same hatchery [30](https://doi.org/10.1111/jfd.13605).
+    - **Saprolegniasis** ([[Saprolegniasis]]): a frequent cause of skin lesions in fresh water. In Chile, mycosis was the leading infectious cause of freshwater mortality in Atlantic salmon in 2025 [25](https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf).
+- **Confirming the Diagnosis:** Because these signs overlap, diagnosis relies on culture on low-nutrient media and PCR (see Laboratory Tests above). A multiplex PCR assay allows *F. psychrophilum*, *Y. ruckeri* and *A. salmonicida* subsp. *salmonicida* to be identified from the same sample [3](https://doi.org/10.4142/jvs.2010.11.3.235).
 
 ### Treatment and Prevention
 
@@ -296,5 +307,11 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [27] Henríquez-Núñez, H., Evrard, O., Kronvall, G., & Avendaño-Herrera, R. (2012). Antimicrobial susceptibility and plasmid profiles of *Flavobacterium psychrophilum* strains isolated in Chile. *Aquaculture*, *354–355*, 38–44. https://doi.org/10.1016/j.aquaculture.2012.04.034
 
 [28] Godoy, M. (2023, August 28). *Flavobacteriosis en salmón coho (Oncorhynchus kisutch), en estuario: patología macroscópica*. Marcos Godoy. https://marcosgodoy.com/flavobacteriosis-en-salmon-coho-oncorhynchus-kisutch-en-estuario-patologia-macroscopica/
+
+[29] Moreira, M., Schrama, D., Farinha, A. P., Cerqueira, M., Raposo de Magalhães, C., Carrilho, R., & Rodrigues, P. (2021). Fish pathology research and diagnosis in aquaculture of farmed fish; a proteomics perspective. *Animals*, *11*(1), 125. https://doi.org/10.3390/ani11010125
+
+[30] Avila, B. W., Winkelman, D. L., & Fetherman, E. R. (2022). Dual resistance to *Flavobacterium psychrophilum* and *Myxobolus cerebralis* in rainbow trout (*Oncorhynchus mykiss*, Walbaum). *Journal of Fish Diseases*, *45*(6), 801–813. https://doi.org/10.1111/jfd.13605
+
+[31] Kumar, G., Menanteau-Ledouble, S., Saleh, M., & El-Matbouli, M. (2015). *Yersinia ruckeri*, the causative agent of enteric redmouth disease in fish. *Veterinary Research*, *46*, 103. https://doi.org/10.1186/s13567-015-0238-4
 
 ---
