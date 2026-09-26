@@ -1,5 +1,14 @@
 ---
 title: Bacterial Cold-Water Disease (Flavobacterium psychrophilum)
+type: disease
+aliases:
+  - BCWD
+  - RTFS
+  - Rainbow Trout Fry Syndrome
+  - Bacterial Coldwater Disease
+  - Flavobacteriosis
+pathogen: Flavobacterium psychrophilum
+category: Bacterial
 description: Learn about Bacterial Cold-Water Disease (BCWD) / Rainbow Trout Fry Syndrome (RTFS), caused by Flavobacterium psychrophilum in cold-water salmonid hatcheries worldwide. Discover clinical signs, diagnosis, treatment options, and prevention strategies.
 tags:
   - BacterialColdWaterDisease
@@ -29,13 +38,13 @@ Bacterial Cold-Water Disease (BCWD, the term generally used in North America) �
 ### Common Signs
 
 - **Physical Signs:**
-    - Disease episodes typically occur at 10–14°C, with necrotic lesions on the skin surrounding the dorsal fin and tail. Affected fish show haemorrhage (mouth, dorsal fin, operculum, pelvic fin, trunk), splenomegaly with blurred spleen margins, trunk lesions, and an eroded tail and mouth [13](https://doi.org/10.1186/s13567-017-0448-z).
+    - RTFS episodes tend to occur at 10–14 °C [13](https://doi.org/10.1186/s13567-017-0448-z), although outbreaks also occur at much lower temperatures — the first Norwegian Atlantic salmon case occurred below 5 °C [21](https://doi.org/10.3354/dao02390). Necrotic lesions are often seen on the skin surrounding the dorsal fin and tail. Affected fish show haemorrhage (mouth, dorsal fin, operculum, pelvic fin, trunk), splenomegaly with blurred spleen margins, trunk lesions, and an eroded tail and mouth [13](https://doi.org/10.1186/s13567-017-0448-z).
 
 **Progression of Clinical Signs**
 
 - **Early Stages:** Disease onset is closely tied to water temperature. Experimentally raising water temperature accelerated the appearance of clinical disease, while increasing salinity delayed onset and improved survival, suggesting a window in early infection where environmental management can buy time for diagnosis and treatment [9](https://doi.org/10.1111/jfd.70037).
 - **Advanced Stages:** Untreated RTFS/BCWD progresses to the full lesion picture described above with high mortality.
-- **Impact on Fish Health:** Both live and dead fish shed *F. psychrophilum* into the water, but dead fish shed the bacterium at substantially higher rates and for longer durations than live fish, meaning that mortality events feed forward into further transmission pressure within a population if not managed promptly [10](https://doi.org/10.1128/spectrum.03601-23).
+- **Impact on Fish Health:** Both live and dead fish shed *F. psychrophilum* into the water, but dead fish shed the bacterium at substantially higher rates and for longer durations than live fish, meaning that mortality events feed forward into further transmission pressure within a population if not managed promptly [10](https://doi.org/10.1128/spectrum.03601-23). In Chile's national surveillance, flavobacteriosis was the leading infectious cause of freshwater mortality in rainbow trout and coho salmon in 2025 [25](https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf), and the leading reason for antimicrobial use in the freshwater phase [26](https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf).
 
 ### Causes of Bacterial Cold-Water Disease (*Flavobacterium psychrophilum*)
 
@@ -71,7 +80,7 @@ Bacterial Cold-Water Disease (BCWD, the term generally used in North America) �
 **Treatment Options**
 
 - **Current Treatments:**
-    - **Antibiotics:** Antimicrobial resistance (AMR) profiling of *F. psychrophilum* shows a consistent pattern across geographically distant farming regions: florfenicol retains high effectiveness, while resistance to oxytetracycline and quinolones is widespread. In Slovenia, 86.3% of isolates were non-wild-type (reduced susceptibility) for oxytetracycline and enrofloxacin and 90.2% for oxolinic acid, while all isolates were wild-type for florfenicol and erythromycin; reduced oxolinic acid susceptibility was linked to a T83A or T83V substitution in the *gyrA* gene [4](https://doi.org/10.1111/jfd.14119). In Chile, MIC-based testing found non-wild-type frequencies of 70% for oxytetracycline and 38–45% for the quinolones oxolinic acid, flumequine, and enrofloxacin, but only 2% for florfenicol (8% by disk diffusion) [2](https://doi.org/10.3389/fmicb.2016.01880).
+    - **Antibiotics:** Antimicrobial resistance (AMR) profiling of *F. psychrophilum* shows a consistent pattern across geographically distant farming regions: florfenicol retains high effectiveness, while resistance to oxytetracycline and quinolones is widespread. In Slovenia, 86.3% of isolates were non-wild-type (reduced susceptibility) for oxytetracycline and enrofloxacin and 90.2% for oxolinic acid, while all isolates were wild-type for florfenicol and erythromycin; reduced oxolinic acid susceptibility was linked to a T83A or T83V substitution in the *gyrA* gene [4](https://doi.org/10.1111/jfd.14119). In Chile, MIC-based testing found non-wild-type frequencies of 70% for oxytetracycline and 38–45% for the quinolones oxolinic acid, flumequine, and enrofloxacin, but only 2% for florfenicol (8% by disk diffusion) [2](https://doi.org/10.3389/fmicb.2016.01880). Florfenicol susceptibility is not universal, however: an earlier Chilean study using a different interpretive cut-off (normalized resistance interpretation, non-susceptible at >2.35 µg/mL) classified 92.5% of 40 isolates as resistant to florfenicol [27](https://doi.org/10.1016/j.aquaculture.2012.04.034), and reduced florfenicol susceptibility has also been reported in 52.8% of Canadian isolates, alongside field reports of lost treatment efficacy in Chile [4](https://doi.org/10.1111/jfd.14119).
 
 - **Vaccines:**
     - **Subunit and Attenuated Candidates:** Vaccine development has been hampered by the bacterium's antigenic and genetic diversity. Candidate antigens — OmpH, OmpA, FspA, and lipopolysaccharide — have been identified using sera from convalescent rainbow trout, and an attenuated *exbD2* mutant strain achieved 81.8% relative percent survival (RPS) after intramuscular immunization and challenge [8](https://doi.org/10.1111/1751-7915.12099).
@@ -133,9 +142,11 @@ Bacterial Cold-Water Disease (BCWD, the term generally used in North America) �
 
 - **Incidence:**
     - *F. psychrophilum* is described as the most important bacterial pathogen of freshwater farmed salmonids in Chile, with 125 isolates characterized from reared salmonids showing clinical signs of disease [2](https://doi.org/10.3389/fmicb.2016.01880).
+    - In 2025, flavobacteriosis accounted for 95.1% of freshwater mortality attributed to infectious causes in rainbow trout, 51.9% in coho salmon, and 24.9% in Atlantic salmon (where mycosis led with 60.2%). These shares refer to infectious mortality only, which is a minority of total freshwater mortality — for example 8.4% in Atlantic salmon, where productive culling was the main recorded cause. *F. psychrophilum* was also the second most frequently detected pathogen in positive diagnostic reports from freshwater farms (17%), after piscine orthoreovirus (PRV, 36.9%) [25](https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf).
 
 - **Treatment & Management:**
-    - MIC-based epidemiological cut-off analysis found non-wild-type frequencies of 70% for oxytetracycline and 38–45% for the quinolones oxolinic acid, flumequine, and enrofloxacin, while only 2% of isolates (8% by disk diffusion) showed reduced susceptibility to florfenicol — a resistance pattern broadly consistent with the Slovenian data above despite the geographic distance between the two surveys [2](https://doi.org/10.3389/fmicb.2016.01880).
+    - Flavobacteriosis was the leading reason for antimicrobial use in Chilean freshwater salmonid farming in 2025, accounting for 46.65% of freshwater use, ahead of renibacteriosis (BKD, 30.96%) and furunculosis (7.35%). Freshwater treatments relied on oxytetracycline (60.63%) and florfenicol (39.15%), mostly given in feed but also by immersion, and immersion treatments against flavobacteriosis drive the high use in the Los Ríos region. The freshwater phase accounted for only 1.17% of national antimicrobial use, and freshwater use fell by 34.1% compared with the previous year [26](https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf).
+    - MIC-based epidemiological cut-off analysis found non-wild-type frequencies of 70% for oxytetracycline and 38–45% for the quinolones oxolinic acid, flumequine, and enrofloxacin, while only 2% of isolates (8% by disk diffusion) showed reduced susceptibility to florfenicol — a resistance pattern broadly consistent with the Slovenian data above despite the geographic distance between the two surveys [2](https://doi.org/10.3389/fmicb.2016.01880). An earlier study of 40 Chilean isolates, using a different interpretive cut-off, reported resistance in 90% to oxytetracycline, 92.5% to florfenicol, and 85% to oxolinic acid, and linked these levels to the large quantities of antimicrobials used to control *F. psychrophilum* outbreaks in Chilean farms [27](https://doi.org/10.1016/j.aquaculture.2012.04.034).
 
 ## Research and References
 
@@ -199,7 +210,7 @@ Recent studies on Bacterial Cold-Water Disease / RTFS (2024–2026) have focused
 
 ## Conclusion
 
-*F. psychrophilum* causes substantial, recurring losses in cold-water salmonid hatcheries worldwide. The most effective management strategies currently available combine water-temperature and salinity management, prompt removal of dead and moribund fish to limit shedding, iodine-based egg disinfection to reduce egg-associated bacterial load, and judicious antibiotic use guided by local resistance surveillance — florfenicol remains broadly effective across geographically distant farming regions (Slovenia, Chile), even where resistance to oxytetracycline and quinolones is already widespread. No commercially robust, broadly available vaccine yet exists, and none of the limited vaccines that do exist are suitable for the juvenile fry that bear the greatest disease burden, leaving antibiotics as the default response to most outbreaks. Genomic selection for BCWD resistance in rainbow trout offers a complementary, longer-term route, although resistance loci can differ between breeding populations.
+*F. psychrophilum* causes substantial, recurring losses in cold-water salmonid hatcheries worldwide. The most effective management strategies currently available combine water-temperature and salinity management, prompt removal of dead and moribund fish to limit shedding, iodine-based egg disinfection to reduce egg-associated bacterial load, and judicious antibiotic use guided by local resistance surveillance — florfenicol remains the most consistently effective option in recent surveys from geographically distant farming regions (Slovenia, Chile), even where resistance to oxytetracycline and quinolones is already widespread, although reduced florfenicol susceptibility has been reported in Chile and Canada. No commercially robust, broadly available vaccine yet exists, and none of the limited vaccines that do exist are suitable for the juvenile fry that bear the greatest disease burden, leaving antibiotics as the default response to most outbreaks. Genomic selection for BCWD resistance in rainbow trout offers a complementary, longer-term route, although resistance loci can differ between breeding populations.
 
 Bacteriophage-based biocontrol, while still preliminary, merits continued investigation as a non-antibiotic intervention, particularly around the egg stage where vertical transmission can be intercepted. Documented outbreaks from Norway, Chile, and the Great Lakes point to the same practical lessons: epidemic clones spread through the trade in eggs, gametes, and live fish; several strains can co-circulate within a single farm, which complicates vaccine design; and sustained biosecurity can keep the disease to a handful of sites per year, as Norway's official surveillance shows. Country-level surveillance data nonetheless remains sparse outside of the few farming regions covered here.
 
@@ -209,8 +220,6 @@ For more information on managing fish diseases and enhancing fish health, subscr
 ---
 
 **Last Modified:** 2026-09-25
-
-**Tags:** #BacterialColdWaterDisease, #RainbowTroutFrySyndrome, #Flavobacterium, #BacterialDiseases
 
 ##### Other Bacterial Diseases
 [[Bacterial Kidney Disease (BKD)]]
@@ -272,5 +281,11 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [23] Ilardi, P., Valdes, S., Rivera, J., Irgang, R., & Avendaño-Herrera, R. (2023). Co-occurrence of heterogeneous *Flavobacterium psychrophilum* isolates within the same Chilean farm and during the same infectious outbreak. *Journal of Fish Diseases*, *46*(10), 1085–1096. https://doi.org/10.1111/jfd.13828
 
 [24] Van Vliet, D., Loch, T. P., & Faisal, M. (2015). *Flavobacterium psychrophilum* infections in salmonid broodstock and hatchery-propagated stocks of the Great Lakes Basin. *Journal of Aquatic Animal Health*, *27*(4), 192–202. https://doi.org/10.1080/08997659.2015.1088488
+
+[25] Servicio Nacional de Pesca y Acuicultura (SERNAPESCA). (2026a). *Informe con antecedentes sanitarios de agua dulce y mar, año 2025*. Subdirección de Acuicultura, Departamento de Salud Animal. https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf
+
+[26] Servicio Nacional de Pesca y Acuicultura (SERNAPESCA). (2026b). *Informe sobre uso de antimicrobianos en la salmonicultura nacional, año 2025*. Subdirección de Acuicultura, Departamento de Salud Animal. https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf
+
+[27] Henríquez-Núñez, H., Evrard, O., Kronvall, G., & Avendaño-Herrera, R. (2012). Antimicrobial susceptibility and plasmid profiles of *Flavobacterium psychrophilum* strains isolated in Chile. *Aquaculture*, *354–355*, 38–44. https://doi.org/10.1016/j.aquaculture.2012.04.034
 
 ---
