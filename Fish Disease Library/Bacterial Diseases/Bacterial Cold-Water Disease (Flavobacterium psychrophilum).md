@@ -39,11 +39,17 @@ Bacterial Cold-Water Disease (BCWD, the term generally used in North America), a
 
 - **Physical Signs:**
     - RTFS episodes tend to occur at 10–14 °C [13](https://doi.org/10.1186/s13567-017-0448-z), although outbreaks also occur at much lower temperatures. The first Norwegian Atlantic salmon case, for example, occurred below 5 °C [21](https://doi.org/10.3354/dao02390). Necrotic lesions are often seen on the skin surrounding the dorsal fin and tail. Affected fish show haemorrhage (mouth, dorsal fin, operculum, pelvic fin, trunk), splenomegaly with blurred spleen margins, trunk lesions, and an eroded tail and mouth [13](https://doi.org/10.1186/s13567-017-0448-z).
+    - Affected fish often show dark pigmentation on one or both sides of the body.
+    - Skin and muscle lesions are common and usually appear on the caudal peduncle, although they can occur elsewhere on the body. Early in the disease, especially in trout, a whitish discolouration appears at the margin of the adipose fin and gradually spreads until it almost completely surrounds the caudal peduncle.
+    - In some cases the adipose fin and the skin on the dorsal side of the peduncle become necrotic, exposing the underlying muscle. In extreme cases this progressive degeneration of skin and muscle can leave the vertebral column exposed.
+    - On gross examination, fish may also show unilateral or bilateral exophthalmia, gill lesions, and lesions with exposed muscle on the lateral and dorsal body and on the caudal peduncle.
+- **Behavioural Signs:** Fish are lethargic, gather in the corners of the tank, or swim in a spiral pattern.
 
 **Progression of Clinical Signs**
 
 - **Early Stages:** Disease onset is closely tied to water temperature. Experimentally raising water temperature accelerated the appearance of clinical disease, while increasing salinity delayed onset and improved survival, suggesting a window in early infection where environmental management can buy time for diagnosis and treatment [9](https://doi.org/10.1111/jfd.70037).
-- **Advanced Stages:** Untreated RTFS/BCWD progresses to the full lesion picture described above with high mortality.
+- **Advanced Stages:** Untreated RTFS/BCWD progresses to the lesions described above, with high mortality. In the most advanced stages, fish may turn completely dark or dark only around the caudal peduncle, and some die without showing any external lesions.
+- **Chronic Cases:** Chronic infection can cause spinal deformities (scoliosis and lordosis), and *F. psychrophilum* can be isolated from the deformed vertebrae.
 - **Impact on Fish Health:** Both live and dead fish shed *F. psychrophilum* into the water, but dead fish shed the bacterium at substantially higher rates and for longer durations than live fish, meaning that mortality events feed forward into further transmission pressure within a population if not managed promptly [10](https://doi.org/10.1128/spectrum.03601-23). In Chile's national surveillance, flavobacteriosis was the leading infectious cause of freshwater mortality in rainbow trout and coho salmon in 2025 [25](https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf), and the leading reason for antimicrobial use in the freshwater phase [26](https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf).
 
 ### Causes of Bacterial Cold-Water Disease (*Flavobacterium psychrophilum*)
