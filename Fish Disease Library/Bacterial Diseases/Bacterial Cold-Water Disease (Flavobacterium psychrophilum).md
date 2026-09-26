@@ -43,6 +43,7 @@ Bacterial Cold-Water Disease (BCWD, the term generally used in North America), a
     - Skin and muscle lesions are common and usually appear on the caudal peduncle, although they can occur elsewhere on the body. Early in the disease, especially in trout, a whitish discolouration appears at the margin of the adipose fin and gradually spreads until it almost completely surrounds the caudal peduncle.
     - In some cases the adipose fin and the skin on the dorsal side of the peduncle become necrotic, exposing the underlying muscle. In extreme cases this progressive degeneration of skin and muscle can leave the vertebral column exposed.
     - On gross examination, fish may also show unilateral or bilateral exophthalmia, gill lesions, and lesions with exposed muscle on the lateral and dorsal body and on the caudal peduncle.
+    - In coho salmon reaching the grow-out phase in estuarine water, clinical signs are similar to those of the freshwater phase. Affected fish show descaling, erosions, and single or multiple ulcers with yellow pigmentation and white or haemorrhagic borders. The yellow colour comes from flexirubin, a pigment characteristic of the genus *Flavobacterium* [28](https://marcosgodoy.com/flavobacteriosis-en-salmon-coho-oncorhynchus-kisutch-en-estuario-patologia-macroscopica/).
 - **Behavioural Signs:** Fish are lethargic, gather in the corners of the tank, or swim in a spiral pattern.
 
 **Progression of Clinical Signs**
@@ -64,7 +65,7 @@ Bacterial Cold-Water Disease (BCWD, the term generally used in North America), a
 
 **Risk Factors**
 
-- **Environmental Factors:** In one experimental study, raising water temperature to 18 °C shortened the time to clinical disease, an unexpected result since outbreaks are typically reported at colder temperatures. In the same study, 1% salinity delayed onset and improved cohabitant survival (42.6% vs 17.9%) [9](https://doi.org/10.1111/jfd.70037).
+- **Environmental Factors:** In one experimental study, raising water temperature to 18 °C shortened the time to clinical disease, an unexpected result since outbreaks are typically reported at colder temperatures. In the same study, 1% salinity delayed onset and improved cohabitant survival (42.6% vs 17.9%) [9](https://doi.org/10.1111/jfd.70037). In the field, cases in coho salmon during the estuarine grow-out phase are explained by freshwater from rivers and rainfall lowering salinity. This helps infections that started in fresh water persist and spread horizontally, and creates conditions that favour new infections [28](https://marcosgodoy.com/flavobacteriosis-en-salmon-coho-oncorhynchus-kisutch-en-estuario-patologia-macroscopica/).
 - **Farm Management Practices:** Prompt removal of dead and moribund fish is a key control point, since dead fish are disproportionate shedders of *F. psychrophilum* into hatchery and farm water [10](https://doi.org/10.1128/spectrum.03601-23).
 
 ### Diagnosis
@@ -293,5 +294,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [26] Servicio Nacional de Pesca y Acuicultura (SERNAPESCA). (2026b). *Informe sobre uso de antimicrobianos en la salmonicultura nacional, año 2025*. Subdirección de Acuicultura, Departamento de Salud Animal. https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf
 
 [27] Henríquez-Núñez, H., Evrard, O., Kronvall, G., & Avendaño-Herrera, R. (2012). Antimicrobial susceptibility and plasmid profiles of *Flavobacterium psychrophilum* strains isolated in Chile. *Aquaculture*, *354–355*, 38–44. https://doi.org/10.1016/j.aquaculture.2012.04.034
+
+[28] Godoy, M. (2023, August 28). *Flavobacteriosis en salmón coho (Oncorhynchus kisutch), en estuario: patología macroscópica*. Marcos Godoy. https://marcosgodoy.com/flavobacteriosis-en-salmon-coho-oncorhynchus-kisutch-en-estuario-patologia-macroscopica/
 
 ---
