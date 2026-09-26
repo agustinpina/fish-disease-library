@@ -10,8 +10,10 @@ tags:
   - FlavobacteriumPsychrophilum
   - RainbowTrout
   - AtlanticSalmon
+  - Norway
   - Slovenia
   - Chile
+  - UnitedStates
 ---
 
 ## Overview
@@ -43,7 +45,7 @@ Bacterial Cold-Water Disease (BCWD, the term generally used in North America) �
 - **Key Virulence Factors:** Colony spreading motility and proteolytic activity are required for pathogenicity — in a comparative study, the only non-virulent isolate tested was deficient in both traits [6](https://doi.org/10.3389/fmicb.2019.01711). The *gldD* and *gldG* genes, part of the gliding-motility/Type IX secretion system (T9SS), are required for adhesion, biofilm formation, proteolytic activity, and full virulence; mutants deficient in either gene showed significantly reduced virulence in rainbow trout challenge models [7](https://doi.org/10.3389/fmicb.2017.02168).
 - **Transmission Methods:**
     - **Horizontal Transmission:** Both live and dead fish shed *F. psychrophilum* into the surrounding water; dead fish shed the bacterium at markedly higher rates and for longer durations than live fish, and shedding dynamics vary by bacterial genetic variant and host species [10](https://doi.org/10.1128/spectrum.03601-23).
-    - **Vertical / Egg-Associated Transmission:** *F. psychrophilum* has been isolated from milt, ovarian fluids, and in close association with eggs, supporting a vertical transmission route that operates alongside horizontal transmission [11](https://doi.org/10.3390/microorganisms9050971).
+    - **Vertical / Egg-Associated Transmission:** *F. psychrophilum* has been isolated from milt, ovarian fluids, and in close association with eggs, supporting a vertical transmission route that operates alongside horizontal transmission [11](https://doi.org/10.3390/microorganisms9050971). Epidemic genotypes have also been isolated from eggs and sexual fluids, so trade in eggs and gametes, not only live fish, can carry the bacterium to new regions [22](https://doi.org/10.1128/AEM.04233-13).
 
 **Risk Factors**
 
@@ -74,7 +76,8 @@ Bacterial Cold-Water Disease (BCWD, the term generally used in North America) �
 - **Vaccines:**
     - **Subunit and Attenuated Candidates:** Vaccine development has been hampered by the bacterium's antigenic and genetic diversity. Candidate antigens — OmpH, OmpA, FspA, and lipopolysaccharide — have been identified using sera from convalescent rainbow trout, and an attenuated *exbD2* mutant strain achieved 81.8% relative percent survival (RPS) after intramuscular immunization and challenge [8](https://doi.org/10.1111/1751-7915.12099).
     - **Polyvalent Immersion Vaccine:** A polyvalent immersion vaccine combining three formalin-inactivated *F. psychrophilum* strains gave 84% RPS in rainbow trout fry against a heterologous strain challenge, with vaccinated fish also showing a delayed mortality onset compared to unvaccinated controls [13](https://doi.org/10.1186/s13567-017-0448-z).
-    - **Vaccine Implementation:** Commercial vaccines against *F. psychrophilum* remain available in only a limited number of countries (Chile, Norway), and none are suitable for the juvenile fry that bear the highest disease burden, leaving antibiotics as the primary recourse during an outbreak in most regions [13](https://doi.org/10.1186/s13567-017-0448-z).
+    - **Vaccine Implementation:** Commercial vaccines against *F. psychrophilum* remain available in only a limited number of countries (Chile, Norway), and none are suitable for the juvenile fry that bear the highest disease burden, leaving antibiotics as the primary recourse during an outbreak in most regions [13](https://doi.org/10.1186/s13567-017-0448-z). In Norway, an injectable vaccine for larger fish works well, but no immersion vaccine is on the market [20](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
+    - **Autogenous Vaccines:** Because several serotypes and antigenic groups can co-circulate within a single farm, and each farm tends to have its own dominant serotype, autogenous (site-specific) vaccines built on each farm's dominant isolates have been recommended for Chilean salmonid farms [23](https://doi.org/10.1111/jfd.13828).
 
 - **Experimental Alternatives:**
     - **Phage-Derived Endolysins (in vitro only):** Ely174, an endolysin from an *F. psychrophilum* bacteriophage, lysed *F. psychrophilum* in vitro once the outer membrane had been permeabilised. Protein engineering improved its activity and thermal stability, and fusing it with the C-terminal domain of the Type IX secretion system protein SprA let it lyse untreated *F. psychrophilum* cells without an outer-membrane permeabiliser — although slowly and only at high concentrations [19](https://doi.org/10.1128/aem.01891-25).
@@ -95,14 +98,28 @@ Bacterial Cold-Water Disease (BCWD, the term generally used in North America) �
 
 ### Case Studies
 
-<!-- TODO: Notable Outbreaks / Lessons Learned — deferred to a second research pass. The AMR
-surveillance studies sourced for this chapter (Slovenia, Chile) characterize circulating resistance
-in farmed populations but do not describe discrete outbreak events with reported scale and response;
-no clearly-sourced case-study narrative was identified in this pass. -->
+**Real-World Examples**
+
+- **Notable Outbreaks:**
+    - **Norway (2008 onwards) — Arrival of an Epidemic Clone in Rainbow Trout:** In Norway, *F. psychrophilum* was considered a minor problem in brown trout and salmon hatcheries until 2008, when an epidemic of systemic disease caused high mortalities on several rainbow trout farms. Of 117 Norwegian isolates typed by MLST, 46% belonged to clonal complex CC-ST10, and ST2 was the only CC-ST10 genotype found in the country — given Norway's short (<10-year) history of BCWD in rainbow trout, this points to the recent introduction of an epidemic clone. CC-ST10 genotypes have been isolated from juvenile and adult fish, eggs, and sexual fluids, so trade in live fish, eggs, and gametes can all spread the clone [22](https://doi.org/10.1128/AEM.04233-13). The disease went on to cause high mortality in fry and small fish at several Norwegian rainbow trout hatcheries, and also caused disease in large rainbow trout in low-salinity areas [20](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
+    - **Norway (Winter 2008–2009) — First Atlantic Salmon Case:** The first Norwegian case of increased mortality in Atlantic salmon occurred in 60–100 g smolts in fresh water on a land-based farm in Western Norway, at water temperatures below 5 °C, with 7.0% accumulated mortality. Affected fish showed septicaemia and necrotic myositis (swollen dark spleen, pale liver, serohaemorrhagic ascites, and haemorrhage in abdominal fat and muscle), and two different genotypes of the bacterium were present in the same outbreak [21](https://doi.org/10.3354/dao02390).
+    - **Chile (2018–2019) — Mixed Strains Within the Same Outbreak:** *F. psychrophilum* was isolated from diseased Atlantic salmon and rainbow trout on five geographically separated freshwater farms (68 isolates). Each farm had a predominant serotype (types 0 and 4 in Atlantic salmon, types 1 and 2 in rainbow trout), but several antigenic groups co-existed within some farms during the same outbreak, and 71% of isolates carried the virulent CSF259-93 16S rRNA allele. In experimental challenges, type-2 isolates from rainbow trout were the most pathogenic [23](https://doi.org/10.1111/jfd.13828).
+    - **United States, Great Lakes Basin — Infected Broodstock and Hatchery Losses:** A 5-year study of Michigan broodstocks detected *F. psychrophilum* in all broodstocks except captive lake trout and brook trout. Prevalence was highest in feral Chinook salmon from the Lake Michigan watershed (mean 63.2%), and captive broodstocks had significantly lower prevalence than feral ones. Despite this, the bacterium was rarely detected in the progeny during hatchery rearing — yet heavy losses from clinical BCWD outbreaks still occurred [24](https://doi.org/10.1080/08997659.2015.1088488).
+
+- **Lessons Learned:** The Norwegian experience shows how quickly a single epidemic clone can establish itself once introduced, and that the movement of eggs, gametes, and live fish is a key route of spread [22](https://doi.org/10.1128/AEM.04233-13). Good biosecurity, egg disinfection, and avoiding the movement of infected fish to new areas have kept systemic infection in Norwegian rainbow trout to a handful of sites per year [20](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025). The Chilean data show that one outbreak can involve several serotypes at once, which complicates vaccine design and led the authors to recommend autogenous (site-specific) vaccines built on each farm's dominant isolates [23](https://doi.org/10.1111/jfd.13828). The Great Lakes study shows that broodstock infection status alone does not predict which hatchery cohorts will suffer outbreaks [24](https://doi.org/10.1080/08997659.2015.1088488).
 
 ## Data Insights
 
 ### Disease Impact by Country
+
+#### Norway
+
+- **Incidence:**
+    - Systemic infection with *F. psychrophilum* in rainbow trout is a notifiable disease in Norway (national list, category F). It was confirmed at 1, 4, 1, 1, and 2 sites in 2021, 2022, 2023, 2024, and 2025, respectively. The two 2025 rainbow trout sites involved sequence types ST169 (a highly diverse group thought to include environmental variants) and ST187 (previously found in skin ulcers of Atlantic salmon). In the fjord system where the bacterium had been found in recent years, no disease was detected in large rainbow trout in 2025 [20](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
+    - In Atlantic salmon, *F. psychrophilum* was detected at 14 sites spread along the coast (production areas PO3–PO13) in 2025, on four in ten sites in fish recorded as healthy and on three in ten in association with disease. At a broodstock facility with skin ulcers, one isolate belonged to ST15, not previously found in Norway. The disease can still be a challenge in the freshwater (smolt production) phase [20](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
+
+- **Treatment & Management:**
+    - No immersion vaccine is on the Norwegian market. An available injectable vaccine for larger fish works well, and a combination vaccine containing *F. psychrophilum* is used actively in the area exposed to the disease. General biosecurity, egg disinfection to reduce possible vertical transmission, and avoiding the movement of infected fish to new areas are the main control measures [20](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
 
 #### Slovenia
 
@@ -184,7 +201,7 @@ Recent studies on Bacterial Cold-Water Disease / RTFS (2024–2026) have focused
 
 *F. psychrophilum* causes substantial, recurring losses in cold-water salmonid hatcheries worldwide. The most effective management strategies currently available combine water-temperature and salinity management, prompt removal of dead and moribund fish to limit shedding, iodine-based egg disinfection to reduce egg-associated bacterial load, and judicious antibiotic use guided by local resistance surveillance — florfenicol remains broadly effective across geographically distant farming regions (Slovenia, Chile), even where resistance to oxytetracycline and quinolones is already widespread. No commercially robust, broadly available vaccine yet exists, and none of the limited vaccines that do exist are suitable for the juvenile fry that bear the greatest disease burden, leaving antibiotics as the default response to most outbreaks. Genomic selection for BCWD resistance in rainbow trout offers a complementary, longer-term route, although resistance loci can differ between breeding populations.
 
-Bacteriophage-based biocontrol, while still preliminary, merits continued investigation as a non-antibiotic intervention, particularly around the egg stage where vertical transmission can be intercepted. Country-level surveillance data remains sparse outside of the handful of farming regions covered here, and discrete, well-documented outbreak case studies — as opposed to general AMR surveys — were not identified for this chapter and remain an open item for a future research pass.
+Bacteriophage-based biocontrol, while still preliminary, merits continued investigation as a non-antibiotic intervention, particularly around the egg stage where vertical transmission can be intercepted. Documented outbreaks from Norway, Chile, and the Great Lakes point to the same practical lessons: epidemic clones spread through the trade in eggs, gametes, and live fish; several strains can co-circulate within a single farm, which complicates vaccine design; and sustained biosecurity can keep the disease to a handful of sites per year, as Norway's official surveillance shows. Country-level surveillance data nonetheless remains sparse outside of the few farming regions covered here.
 
 ### Call to Action
 For more information on managing fish diseases and enhancing fish health, subscribe to our [newsletter](https://content.manolinaqua.com/manolin-newsletter-sign-up) and follow our latest research updates.
@@ -245,5 +262,15 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [18] Krishna, D., Petersen, P. E., Dahl, M. M., Egholm, I., von Gersdorff Jørgensen, L., & Christiansen, D. H. (2026). Environmental DNA/RNA for non-invasive early detection and monitoring of pathogen dynamics in Atlantic salmon (*Salmo salar*) recirculating aquaculture systems (RAS). *Aquaculture*, *611*, 743060. https://doi.org/10.1016/j.aquaculture.2025.743060
 
 [19] Xie, S., Lu, Y., Li, X., Xu, Y., Cao, X., & Chen, J. (2025). The C-terminal domain of T9SS component protein SprA assists *Flavobacterium psychrophilum* bacteriophage endolysin Ely174 to lyse Gram-negative bacteria. *Applied and Environmental Microbiology*, *91*(11), e0189125. https://doi.org/10.1128/aem.01891-25
+
+[20] Moldal, T., Wiik-Nielsen, J., Oliveira, V. H. S., Svendsen, J. C., & Sommerset, I. (Eds.). (2026). *Fiskehelserapporten 2025* [Norwegian Fish Health Report 2025] (Veterinærinstituttets rapportserie nr. 5a/2026; Chapter 8.1, Flavobakteriose, by H. K. Nilsen). Norwegian Veterinary Institute. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025
+
+[21] Nilsen, H., Johansen, R., Colquhoun, D. J., Kaada, I., Bottolfsen, K., Vågnes, Ø., & Olsen, A. B. (2011). *Flavobacterium psychrophilum* associated with septicaemia and necrotic myositis in Atlantic salmon *Salmo salar*: a case report. *Diseases of Aquatic Organisms*, *97*(1), 37–46. https://doi.org/10.3354/dao02390
+
+[22] Nilsen, H., Sundell, K., Duchaud, E., Nicolas, P., Dalsgaard, I., Madsen, L., Aspán, A., Jansson, E., Colquhoun, D. J., & Wiklund, T. (2014). Multilocus sequence typing identifies epidemic clones of *Flavobacterium psychrophilum* in Nordic countries. *Applied and Environmental Microbiology*, *80*(9), 2728–2736. https://doi.org/10.1128/AEM.04233-13
+
+[23] Ilardi, P., Valdes, S., Rivera, J., Irgang, R., & Avendaño-Herrera, R. (2023). Co-occurrence of heterogeneous *Flavobacterium psychrophilum* isolates within the same Chilean farm and during the same infectious outbreak. *Journal of Fish Diseases*, *46*(10), 1085–1096. https://doi.org/10.1111/jfd.13828
+
+[24] Van Vliet, D., Loch, T. P., & Faisal, M. (2015). *Flavobacterium psychrophilum* infections in salmonid broodstock and hatchery-propagated stocks of the Great Lakes Basin. *Journal of Aquatic Animal Health*, *27*(4), 192–202. https://doi.org/10.1080/08997659.2015.1088488
 
 ---
