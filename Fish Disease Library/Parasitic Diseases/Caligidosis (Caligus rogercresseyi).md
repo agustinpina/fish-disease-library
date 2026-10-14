@@ -32,17 +32,40 @@ Caligidosis is the infestation of fish by *Caligus rogercresseyi*, a copepod of 
 
 It has been described in all farmed salmonid species and in native wild fish such as róbalo, pejerrey and lenguado. Atlantic salmon (*Salmo salar*) and rainbow trout (*Oncorhynchus mykiss*) are the most susceptible, while coho salmon (*Oncorhynchus kisutch*) has a lower susceptibility. Infestations were first reported in rainbow trout farmed in Los Lagos in the 1980s, then confirmed in Atlantic salmon in Aysén in the 1990s, and in 2017 the parasite was reported for the first time in Magallanes.[1](https://faolex.fao.org/docs/pdf/chi112982.pdf)[2](https://doi.org/10.1038/s41598-021-92425-3)[3](https://doi.org/10.3389/fvets.2020.615039)
 
-Its life cycle has eight stages: two nauplii and one copepodid, which are planktonic (the copepodid is the infective stage), four chalimus stages attached to the host, and the adult. Development is directly related to water temperature and salinity, and temperatures above 4.2 °C and higher salinities favour its proliferation.[1](https://faolex.fao.org/docs/pdf/chi112982.pdf)[2](https://doi.org/10.1038/s41598-021-92425-3)
+Its life cycle has eight stages: two nauplii and one copepodid, which are planktonic (the copepodid is the infective stage), four chalimus stages attached to the host, and the adult. Development is directly related to water temperature and salinity, and temperatures above 4.2 °C and salinities above 24 ppt accelerate its development and favour its proliferation.[1](https://faolex.fao.org/docs/pdf/chi112982.pdf)[2](https://doi.org/10.1038/s41598-021-92425-3)[4](http://www.sernapesca.cl/sites/default/files/res.ex_.60-2022.pdf)
 
 ## Clinical Signs of Caligidosis (*Caligus rogercresseyi*)
 
 ### Common Signs
 
-*No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
+**Physical Signs**
+
+The parasite feeds on skin, mucus and blood, so at its attachment and feeding sites it can break the continuity of the skin and cause scale loss, petechiae, ecchymoses, lacerations and, occasionally, eye lesions.[4](http://www.sernapesca.cl/sites/default/files/res.ex_.60-2022.pdf) In Atlantic salmon, fin condition worsened as parasite abundance increased in an experimental infestation, mainly in the pectoral, pelvic and anal fins.[5](https://doi.org/10.3390/ani10071166)
+
+**Physiological and Behavioural Signs**
+
+Infestation alters the osmotic barrier of the skin and reduces appetite and feed conversion.[3](https://doi.org/10.3389/fvets.2020.615039) In the same experimental infestation, fin damage was associated with higher plasma glucose and cortisol, which are indicators of stress, and previous work cited by the authors reported these changes with more than six adult parasites per fish. The study could not separate the damage caused directly by the parasite from the effect of stress.[5](https://doi.org/10.3390/ani10071166)
+
+**Secondary Infections**
+
+Skin damage favours the entry of pathogens and increases susceptibility to bacterial and viral infections.[2](https://doi.org/10.1038/s41598-021-92425-3)[4](http://www.sernapesca.cl/sites/default/files/res.ex_.60-2022.pdf) In a coinfection experiment, Atlantic salmon exposed to *Piscirickettsia salmonis* and to *C. rogercresseyi* copepodids reached 100% mortality, compared with 46% (251 of 545 fish) with *P. salmonis* alone.[6](https://doi.org/10.1371/journal.pone.0095397)
 
 ### Causes of Caligidosis (*Caligus rogercresseyi*)
 
-*No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
+**Life Cycle**
+
+*C. rogercresseyi* has eight stages: two planktonic nauplii, a planktonic copepodid that is the infective stage, four chalimus stages attached to the host by a frontal filament, and the adult. Adults can be males, females without egg sacs and ovigerous females, whose egg sacs release the eggs that hatch as nauplii I and restart the cycle.[4](http://www.sernapesca.cl/sites/default/files/res.ex_.60-2022.pdf) Development depends on water temperature: the cycle takes about 45 days at 10 °C, 32 days at 12 °C and 26 days at 15 °C. Planktonic stages measure between 425 and 658 µm, and chalimus stages 830 µm or more.[7](https://www.sernapesca.cl/app/uploads/2024/01/INFORME-TECNICO-PSEVC-CALIGIDOSIS-ENERO-2022.pdf)
+
+![[attachments/caligus_rogercresseyi_life_cycle.png]]
+Life cycle of *Caligus rogercresseyi*: stages, habitat of each stage and time to complete the cycle.
+
+**Transmission and Sources of the Parasite**
+
+The parasite occurs naturally in wild fish such as róbalo, lenguado and pejerrey, free in the plankton, and on farmed salmonids.[4](http://www.sernapesca.cl/sites/default/files/res.ex_.60-2022.pdf) The larvae disperse through the water column and can reach farms up to 30 km from the farm of origin. The movement of live fish by vessel to holding facilities, where they can stay up to 7 days, is an important risk factor for its spread.[7](https://www.sernapesca.cl/app/uploads/2024/01/INFORME-TECNICO-PSEVC-CALIGIDOSIS-ENERO-2022.pdf) The microbiota of lice from Chilean farms includes potential fish pathogens such as *Vibrio*, *Tenacibaculum* and *Aeromonas*, which suggests that lice could act as reservoirs.[8](https://doi.org/10.1038/s41598-020-59747-0)
+
+**Risk Factors**
+
+High stocking densities favour the proliferation and pathogenicity of the parasite.[4](http://www.sernapesca.cl/sites/default/files/res.ex_.60-2022.pdf) Water temperature, salinity and current velocity are the main environmental factors limiting its distribution in southern Chile, and habitat suitability models project new suitable areas for 2050 and 2100 under climate change scenarios.[3](https://doi.org/10.3389/fvets.2020.615039) Sernapesca's first surveillance programme (2007) identified farm density and the treatments carried out as risk factors associated with parasite loads.[7](https://www.sernapesca.cl/app/uploads/2024/01/INFORME-TECNICO-PSEVC-CALIGIDOSIS-ENERO-2022.pdf)
 
 ### Diagnosis
 
@@ -64,15 +87,15 @@ Its life cycle has eight stages: two nauplii and one copepodid, which are plankt
 
 **Surveillance Programme**
 
-Caligidosis is monitored through the Specific Health Programme for the Surveillance and Control of Caligidosis (PSEVC Caligidosis, Resolución Exenta N°60/2022) run by the National Fisheries and Aquaculture Service (Sernapesca). It covers high-surveillance centres (CAV) farming Atlantic salmon and rainbow trout in the Los Lagos, Aysén and Magallanes regions. The programme sets a threshold of 3.0 average ovigerous females (OF) per fish, and a CAV is classified as a high dissemination centre (CAD) when its first monitoring after the official treatment window of its farm grouping shows loads at or above that threshold.[4](https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf)
+Caligidosis is monitored through the Specific Health Programme for the Surveillance and Control of Caligidosis (PSEVC Caligidosis, Resolución Exenta N°60/2022) run by the National Fisheries and Aquaculture Service (Sernapesca). It covers high-surveillance centres (CAV) farming Atlantic salmon and rainbow trout in the Los Lagos, Aysén and Magallanes regions. The programme sets a threshold of 3.0 average ovigerous females (OF) per fish, and a CAV is classified as a high dissemination centre (CAD) when its first monitoring after the official treatment window of its farm grouping shows loads at or above that threshold.[9](https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf)
 
 **Parasite Loads in 2025**
 
-In Los Lagos, the highest weekly average load was 3.0 OF (weeks 01 and 18) and the lowest was 1.6 OF (weeks 45 and 46). In Aysén, the highest was 3.6 OF (week 42, October) and the lowest was 1.7 OF. Magallanes had considerably lower loads, with a maximum weekly average of 0.3 OF. Compared with 2024, loads showed a slight downward trend in Los Lagos and a slight upward trend in Aysén, while water temperature remained stable in the three regions.[4](https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf)
+In Los Lagos, the highest weekly average load was 3.0 OF (weeks 01 and 18) and the lowest was 1.6 OF (weeks 45 and 46). In Aysén, the highest was 3.6 OF (week 42, October) and the lowest was 1.7 OF. Magallanes had considerably lower loads, with a maximum weekly average of 0.3 OF. Compared with 2024, loads showed a slight downward trend in Los Lagos and a slight upward trend in Aysén, while water temperature remained stable in the three regions.[9](https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf)
 
 **Centres Above the Threshold**
 
-In Los Lagos and Aysén, the weekly proportion of CAV with an average load of 3.0 OF or more ranged from 8.4% (week 49, December) to 25.4% (week 01, January), while in Magallanes the maximum was 2.6% (week 39, September). Over 2025, 211 CAV recorded loads of 3.0 OF or more, mostly in the heaviest production stage (T3), which accounted for 43.6% (92 centres). Sernapesca defines the production stages by fish weight: T1 is up to 1.5 kg for Atlantic salmon (up to 1.0 kg for rainbow trout and coho salmon), T2 is above 1.5 and up to 3.0 kg (above 1.0 and up to 2.0 kg), and T3 is above 3.0 kg (above 2.0 kg).[4](https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf)
+In Los Lagos and Aysén, the weekly proportion of CAV with an average load of 3.0 OF or more ranged from 8.4% (week 49, December) to 25.4% (week 01, January), while in Magallanes the maximum was 2.6% (week 39, September). Over 2025, 211 CAV recorded loads of 3.0 OF or more, mostly in the heaviest production stage (T3), which accounted for 43.6% (92 centres). Sernapesca defines the production stages by fish weight: T1 is up to 1.5 kg for Atlantic salmon (up to 1.0 kg for rainbow trout and coho salmon), T2 is above 1.5 and up to 3.0 kg (above 1.0 and up to 2.0 kg), and T3 is above 3.0 kg (above 2.0 kg).[9](https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf)
 
 | Production stage | Centres with ≥ 3.0 OF in 2024 | Centres with ≥ 3.0 OF in 2025 |
 |---|---|---|
@@ -82,11 +105,11 @@ In Los Lagos and Aysén, the weekly proportion of CAV with an average load of 3.
 
 **Antiparasitic Use in 2025**
 
-Sernapesca reports antiparasitic use for production cycles closed in 2025, meaning those whose harvest finished between 1 January and 31 December. The sample comprises 315 cycles: 195 of Atlantic salmon, 107 of coho salmon and 13 of rainbow trout. These products are used mainly to control *Caligus rogercresseyi*, together with non-pharmacological immersion strategies, whose use increased by 36.1% compared with 2024 (from 495 to 674 uses). Hydrogen peroxide is reported separately from the other antiparasitics because of its much larger volumes and its lower environmental impact, as it breaks down quickly into water and oxygen.[5](https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf)
+Sernapesca reports antiparasitic use for production cycles closed in 2025, meaning those whose harvest finished between 1 January and 31 December. The sample comprises 315 cycles: 195 of Atlantic salmon, 107 of coho salmon and 13 of rainbow trout. These products are used mainly to control *Caligus rogercresseyi*, together with non-pharmacological immersion strategies, whose use increased by 36.1% compared with 2024 (from 495 to 674 uses). Hydrogen peroxide is reported separately from the other antiparasitics because of its much larger volumes and its lower environmental impact, as it breaks down quickly into water and oxygen.[10](https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf)
 
-Antiparasitics other than hydrogen peroxide (azamethiphos, emamectin benzoate, deltamethrin and hexaflumuron) totalled 3.03 t, giving a national consumption index of 2.52 g per tonne produced, 41.26% lower than in 2024. Azamethiphos and hexaflumuron accounted for 91.2% of this use, with emamectin benzoate and deltamethrin used to a lesser extent. All are given as immersion baths except emamectin benzoate, which is delivered in the feed. Use was concentrated in Atlantic salmon and, to a lesser extent, rainbow trout, and no use was recorded in coho salmon, which Sernapesca relates to its lower susceptibility to caligidosis.[5](https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf)
+Antiparasitics other than hydrogen peroxide (azamethiphos, emamectin benzoate, deltamethrin and hexaflumuron) totalled 3.03 t, giving a national consumption index of 2.52 g per tonne produced, 41.26% lower than in 2024. Azamethiphos and hexaflumuron accounted for 91.2% of this use, with emamectin benzoate and deltamethrin used to a lesser extent. All are given as immersion baths except emamectin benzoate, which is delivered in the feed. Use was concentrated in Atlantic salmon and, to a lesser extent, rainbow trout, and no use was recorded in coho salmon, which Sernapesca relates to its lower susceptibility to caligidosis.[10](https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf)
 
-Hydrogen peroxide, which Sernapesca describes as the product applied to control caligidosis, was used as an immersion bath, mainly in Atlantic salmon in Los Lagos and Aysén. A total of 12,947 t were applied, giving an index of 10,795 g per tonne produced, which did not change significantly compared with 2024 (0.87%). Sernapesca considers it an effective alternative with a lower environmental impact for the control of caligidosis.[5](https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf)
+Hydrogen peroxide, which Sernapesca describes as the product applied to control caligidosis, was used as an immersion bath, mainly in Atlantic salmon in Los Lagos and Aysén. A total of 12,947 t were applied, giving an index of 10,795 g per tonne produced, which did not change significantly compared with 2024 (0.87%). Sernapesca considers it an effective alternative with a lower environmental impact for the control of caligidosis.[10](https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf)
 
 | Species | Closed cycles | Antiparasitics other than hydrogen peroxide (index, g/t) | Hydrogen peroxide (index, g/t) |
 |---|---|---|---|
@@ -103,7 +126,7 @@ Hydrogen peroxide, which Sernapesca describes as the product applied to control 
 
 **Regulatory Framework**
 
-Caligidosis is a List 2 high-risk disease in Chile.[1](https://faolex.fao.org/docs/pdf/chi112982.pdf) It is regulated by the Specific Health Programme for the Surveillance and Control of Caligidosis, currently Resolución Exenta N°60/2022, which replaced the 2015 programme and was modified in 2026 to allow in-situ net cleaning and the return of the liquid fraction of uneaten feed capture systems.[6](http://www.sernapesca.cl/sites/default/files/res.ex_.60-2022.pdf)[7](https://www.sernapesca.cl/app/uploads/2026/09/RES-EX-N%C2%B0-2385-30-07-26-Modifica-PSEVC-caligidosis.pdf) The treatment window is the official period, set by Sernapesca for each farm grouping by region and season, within which immersion antiparasitic treatments must be applied. The table below summarises what producers must do in each sanitary scenario, according to the programme and Sernapesca's usage limits.[6](http://www.sernapesca.cl/sites/default/files/res.ex_.60-2022.pdf)[8](https://www.sernapesca.cl/app/uploads/2024/01/Limites-maximos-de-uso-de-antiparasitarios.pdf)
+Caligidosis is a List 2 high-risk disease in Chile.[11](https://www.sernapesca.cl/app/uploads/2026/09/RES-EX-N%C2%B0-2385-30-07-26-Modifica-PSEVC-caligidosis.pdf) It is regulated by the Specific Health Programme for the Surveillance and Control of Caligidosis, currently Resolución Exenta N°60/2022, which replaced the 2015 programme and was modified in 2026 to allow in-situ net cleaning and the return of the liquid fraction of uneaten feed capture systems.[4](http://www.sernapesca.cl/sites/default/files/res.ex_.60-2022.pdf)[11](https://www.sernapesca.cl/app/uploads/2026/09/RES-EX-N%C2%B0-2385-30-07-26-Modifica-PSEVC-caligidosis.pdf) The treatment window is the official period, set by Sernapesca for each farm grouping by region and season, within which immersion antiparasitic treatments must be applied. The table below summarises what producers must do in each sanitary scenario, according to the programme and Sernapesca's usage limits.[4](http://www.sernapesca.cl/sites/default/files/res.ex_.60-2022.pdf)[12](https://www.sernapesca.cl/app/uploads/2024/01/Limites-maximos-de-uso-de-antiparasitarios.pdf)
 
 | Scenario | What the producer must do |
 |---|---|
@@ -118,7 +141,7 @@ In practice, loads of 3.0 OF or more after a treatment window can end in the ear
 
 **Antiparasitic Use and Efficacy in 2018**
 
-The technical report cited in Resolución Exenta N°594 states that five active ingredients were registered against *C. rogercresseyi*: azamethiphos, cypermethrin and deltamethrin, used as immersion baths in sea farms, and lufenuron and emamectin benzoate, used in freshwater centres or at stocking in the sea. In 2018, 1,396 antiparasitic immersion treatments were reported, 77% of them with azamethiphos, while hydrogen peroxide, then used under a special use authorisation, accounted for less than 0.05% of treatments. Efficacy was highest for azamethiphos, followed by deltamethrin, but the report notes a decline in average efficacy, which had fluctuated between 90 and 100% in 2016-2017, with some areas reporting 80% or less.[9](https://www.subpesca.cl/portal/617/articles-103570_recurso_2.pdf)
+The technical report cited in Resolución Exenta N°594 states that five active ingredients were registered against *C. rogercresseyi*: azamethiphos, cypermethrin and deltamethrin, used as immersion baths in sea farms, and lufenuron and emamectin benzoate, used in freshwater centres or at stocking in the sea. In 2018, 1,396 antiparasitic immersion treatments were reported, 77% of them with azamethiphos, while hydrogen peroxide, then used under a special use authorisation, accounted for less than 0.05% of treatments. Efficacy was highest for azamethiphos, followed by deltamethrin, but the report notes a decline in average efficacy, which had fluctuated between 90 and 100% in 2016-2017, with some areas reporting 80% or less.[13](https://www.subpesca.cl/portal/617/articles-103570_recurso_2.pdf)
 
 ## Research and References
 
@@ -153,14 +176,22 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [3] Lepe-Lopez, M., Escobar-Dodero, J., Zimin-Veselkoff, N., Azat, C., & Mardones, F. O. (2021). Assessing the present and future habitat suitability of *Caligus rogercresseyi* (Boxshall and Bravo, 2000) for salmon farming in southern Chile. *Frontiers in Veterinary Science*, *7*, Article 615039. https://doi.org/10.3389/fvets.2020.615039
 
-[4] Servicio Nacional de Pesca y Acuicultura. (2026). *Informe sobre la situación sanitaria de la salmonicultura en Chile, año 2025*. Sernapesca. https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf
+[4] Servicio Nacional de Pesca y Acuicultura. (2022). *Resolución Exenta N°60: Aprueba Programa Sanitario Específico de Vigilancia y Control de Caligidosis. Deja sin efecto Resolución Exenta número 13 de 2015*. http://www.sernapesca.cl/sites/default/files/res.ex_.60-2022.pdf
 
-[5] Servicio Nacional de Pesca y Acuicultura. (2026). *Informe de uso de antimicrobianos y antiparasitarios, año 2025*. Sernapesca, Subdirección de Acuicultura, Departamento de Salud Animal. https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf
+[5] González, M. P., Marín, S. L., Mancilla, M., Cañon-Jones, H., & Vargas-Chacoff, L. (2020). Fin erosion of *Salmo salar* (Linnaeus 1758) infested with the parasite *Caligus rogercresseyi* (Boxshall & Bravo 2000). *Animals*, *10*(7), Article 1166. https://doi.org/10.3390/ani10071166
 
-[6] Servicio Nacional de Pesca y Acuicultura. (2022). *Resolución Exenta N°60: Aprueba Programa Sanitario Específico de Vigilancia y Control de Caligidosis. Deja sin efecto Resolución Exenta número 13 de 2015*. http://www.sernapesca.cl/sites/default/files/res.ex_.60-2022.pdf
+[6] Lhorente, J. P., Gallardo, J. A., Villanueva, B., Carabaño, M. J., & Neira, R. (2014). Disease resistance in Atlantic salmon (*Salmo salar*): Coinfection of the intracellular bacterial pathogen *Piscirickettsia salmonis* and the sea louse *Caligus rogercresseyi*. *PLOS ONE*, *9*(4), Article e95397. https://doi.org/10.1371/journal.pone.0095397
 
-[7] Servicio Nacional de Pesca y Acuicultura. (2026). *Resolución Exenta N° DN-02385/2026: Modifica Programa Sanitario Específico de Vigilancia y Control de la Caligidosis, aprobado mediante Resolución Exenta N°60 de fecha 02 de febrero de 2022*. https://www.sernapesca.cl/app/uploads/2026/09/RES-EX-N%C2%B0-2385-30-07-26-Modifica-PSEVC-caligidosis.pdf
+[7] Servicio Nacional de Pesca y Acuicultura. (2022). *Informe técnico: Nuevo programa de vigilancia y control de caligidosis*. Sernapesca, Subdirección de Acuicultura, Departamento de Salud Animal. https://www.sernapesca.cl/app/uploads/2024/01/INFORME-TECNICO-PSEVC-CALIGIDOSIS-ENERO-2022.pdf
 
-[8] Servicio Nacional de Pesca y Acuicultura. (2024). *Límites máximos de uso de antiparasitarios*. https://www.sernapesca.cl/app/uploads/2024/01/Limites-maximos-de-uso-de-antiparasitarios.pdf
+[8] Gonçalves, A. T., Collipal-Matamal, R., Valenzuela-Muñoz, V., Nuñez-Acuña, G., Valenzuela-Miranda, D., & Gallardo-Escárate, C. (2020). Nanopore sequencing of microbial communities reveals the potential role of sea lice as a reservoir for fish pathogens. *Scientific Reports*, *10*, Article 2895. https://doi.org/10.1038/s41598-020-59747-0
 
-[9] Servicio Nacional de Pesca y Acuicultura. (2019). *Resolución Exenta N°594: Modifica Resolución Exenta N°13, de 2015, que establece Programa Sanitario Específico de Vigilancia y Control de la Caligidosis (PSEVC-Caligidosis)*. https://www.subpesca.cl/portal/617/articles-103570_recurso_2.pdf
+[9] Servicio Nacional de Pesca y Acuicultura. (2026). *Informe sobre la situación sanitaria de la salmonicultura en Chile, año 2025*. Sernapesca. https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf
+
+[10] Servicio Nacional de Pesca y Acuicultura. (2026). *Informe de uso de antimicrobianos y antiparasitarios, año 2025*. Sernapesca, Subdirección de Acuicultura, Departamento de Salud Animal. https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf
+
+[11] Servicio Nacional de Pesca y Acuicultura. (2026). *Resolución Exenta N° DN-02385/2026: Modifica Programa Sanitario Específico de Vigilancia y Control de la Caligidosis, aprobado mediante Resolución Exenta N°60 de fecha 02 de febrero de 2022*. https://www.sernapesca.cl/app/uploads/2026/09/RES-EX-N%C2%B0-2385-30-07-26-Modifica-PSEVC-caligidosis.pdf
+
+[12] Servicio Nacional de Pesca y Acuicultura. (2024). *Límites máximos de uso de antiparasitarios*. https://www.sernapesca.cl/app/uploads/2024/01/Limites-maximos-de-uso-de-antiparasitarios.pdf
+
+[13] Servicio Nacional de Pesca y Acuicultura. (2019). *Resolución Exenta N°594: Modifica Resolución Exenta N°13, de 2015, que establece Programa Sanitario Específico de Vigilancia y Control de la Caligidosis (PSEVC-Caligidosis)*. https://www.subpesca.cl/portal/617/articles-103570_recurso_2.pdf
