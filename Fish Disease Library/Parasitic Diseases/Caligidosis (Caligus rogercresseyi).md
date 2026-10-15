@@ -69,11 +69,35 @@ High stocking densities favour the proliferation and pathogenicity of the parasi
 
 ### Diagnosis
 
-*No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
+**Parasite Counts**
+
+Diagnosis on farms is based on visual inspection and counting of the parasites on sampled fish. Lice are counted by stage in three categories: juveniles (chalimus I to IV), mobile adults (males and females without egg sacs) and ovigerous females, which are about 5 mm long and carry egg strings visible to the naked eye. Under the surveillance programme, a qualified sampler carries out these counts, and the average number of ovigerous females per fish is the indicator used to classify farms (see Regulatory Framework).[3](https://doi.org/10.3389/fvets.2020.615039)[4](http://www.sernapesca.cl/sites/default/files/res.ex_.60-2022.pdf)
+
+**Treatment Efficacy**
+
+The efficacy of an immersion treatment is measured by comparing the parasite loads in the same 4 cages the day before the treatment and 24 to 48 hours after it. A low efficacy can reflect a loss of sensitivity of the parasite, but Sernapesca notes that application problems must be ruled out first, such as product dilutions that do not follow the technical sheet or tarpaulin dimensions that do not match those used to calculate the dose.[7](https://www.sernapesca.cl/app/uploads/2024/01/INFORME-TECNICO-PSEVC-CALIGIDOSIS-ENERO-2022.pdf)
+
+**Resistance Testing**
+
+The sensitivity of a lice population is assessed with bioassays, in which lice collected from farms are exposed to a range of concentrations of the product. Bioassays on lice from Los Lagos showed increasing resistance to deltamethrin in 2008 and 2012 compared with 2007, before pyrethroids were introduced in Chile, and reduced sensitivity to azamethiphos was detected in 2014, a year after its introduction. A variant of the acetylcholinesterase gene *AChE1a* (F318V) was associated with lice surviving high azamethiphos concentrations, and is a candidate marker for resistance monitoring.[14](https://doi.org/10.1111/jfd.12223)[15](https://doi.org/10.1186/s13071-018-3151-7)
 
 ### Treatment and Prevention
 
-*No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
+**Pharmacological and Non-Pharmacological Treatments**
+
+Chile introduced regulations for the integrated pest management of sea lice in 2007, but pharmacological treatments remain the main control tool, and non-pharmacological treatments have been available since 2016. In 2021, 7.72 g of medicines were prescribed per tonne of harvested salmon, mainly azamethiphos (47%) and hexaflumuron (45.5%), together with 5,532 t of hydrogen peroxide.[16](https://doi.org/10.1111/raq.12815) Current use and the rules on treatment windows, rotation and usage caps are described under Data Insights.
+
+**Declining Efficacy**
+
+Treatment efficacy reported by producers fell significantly between 2016 and 2021 for the three most used active ingredients. The median efficacy of azamethiphos dropped from 99.4% in 2016 to 70.6% in 2021, and that of deltamethrin from 76.1% in 2016 to 62.3% in 2020. Hydrogen peroxide also declined but kept the highest efficacy of the period, with medians above 88.5%. Sernapesca relates this decline to the increasing resistance of the parasite reported in the literature.[7](https://www.sernapesca.cl/app/uploads/2024/01/INFORME-TECNICO-PSEVC-CALIGIDOSIS-ENERO-2022.pdf)
+
+**Coordinated Treatments**
+
+Immersion baths have no lasting effect, so lice from neighbouring farms can reinfest treated fish. In Chile, treating neighbouring farms (within 10 km by sea) in synchrony was associated with lower adult lice levels from weeks 5 to 7 after treatment. The official treatment windows coordinate immersion treatments within each farm grouping.[4](http://www.sernapesca.cl/sites/default/files/res.ex_.60-2022.pdf)[17](https://doi.org/10.1016/j.prevetmed.2016.11.011)
+
+**Genetic Resistance and Vaccines**
+
+Resistance to *C. rogercresseyi* in Atlantic salmon is moderately heritable. In post-smolts from a Chilean breeding programme, the heritability of lice density was 0.28, and three genomic regions explained 7 to 13% of the genetic variation in resistance, which supports selective breeding. Vaccines are being tested experimentally: recombinant cathepsin, alone or mixed with peritrophin, reduced the early-stage (chalimus) burden by 44 to 52% in Atlantic salmon, and a peptide vaccine designed from a *Lepeophtheirus salmonis* protein reduced adult *C. rogercresseyi* by 92% in a challenge trial in Chile.[18](https://doi.org/10.3389/fgene.2019.00056)[19](https://doi.org/10.3390/vaccines10071063)[20](https://doi.org/10.3390/vaccines12050456)
 
 ### Case Studies
 
@@ -158,7 +182,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** 2026-10-14
+**Last Modified:** 2026-10-15
 
 ##### Other Parasitic Diseases
 [[Amoebic Gill Disease (AGD)]]
@@ -195,3 +219,17 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [12] Servicio Nacional de Pesca y Acuicultura. (2024). *Límites máximos de uso de antiparasitarios*. https://www.sernapesca.cl/app/uploads/2024/01/Limites-maximos-de-uso-de-antiparasitarios.pdf
 
 [13] Servicio Nacional de Pesca y Acuicultura. (2019). *Resolución Exenta N°594: Modifica Resolución Exenta N°13, de 2015, que establece Programa Sanitario Específico de Vigilancia y Control de la Caligidosis (PSEVC-Caligidosis)*. https://www.subpesca.cl/portal/617/articles-103570_recurso_2.pdf
+
+[14] Helgesen, K. O., Bravo, S., Sevatdal, S., Mendoza, J., & Horsberg, T. E. (2014). Deltamethrin resistance in the sea louse *Caligus rogercresseyi* (Boxhall and Bravo) in Chile: Bioassay results and usage data for antiparasitic agents with references to Norwegian conditions. *Journal of Fish Diseases*, *37*(10), 877–890. https://doi.org/10.1111/jfd.12223
+
+[15] Agusti-Ridaura, C., Dondrup, M., Horsberg, T. E., Leong, J. S., Koop, B. F., Bravo, S., Mendoza, J., & Kaur, K. (2018). *Caligus rogercresseyi* acetylcholinesterase types and variants: A potential marker for organophosphate resistance. *Parasites & Vectors*, *11*, Article 570. https://doi.org/10.1186/s13071-018-3151-7
+
+[16] Bravo, S., & Treasurer, J. (2023). The management of the sea lice in Chile: A review. *Reviews in Aquaculture*, *15*(4), 1749–1764. https://doi.org/10.1111/raq.12815
+
+[17] Arriagada, G., Stryhn, H., Sanchez, J., Vanderstichel, R., Campistó, J. L., Rees, E. E., Ibarra, R., & St-Hilaire, S. (2017). Evaluating the effect of synchronized sea lice treatments in Chile. *Preventive Veterinary Medicine*, *136*, 1–10. https://doi.org/10.1016/j.prevetmed.2016.11.011
+
+[18] Robledo, D., Gutiérrez, A. P., Barría, A., Lhorente, J. P., Houston, R. D., & Yáñez, J. M. (2019). Discovery and functional annotation of quantitative trait loci affecting resistance to sea lice in Atlantic salmon. *Frontiers in Genetics*, *10*, Article 56. https://doi.org/10.3389/fgene.2019.00056
+
+[19] Casuso, A., Valenzuela-Muñoz, V., Benavente, B. P., Valenzuela-Miranda, D., & Gallardo-Escárate, C. (2022). Exploring sea lice vaccines against early stages of infestation in Atlantic salmon (*Salmo salar*). *Vaccines*, *10*(7), Article 1063. https://doi.org/10.3390/vaccines10071063
+
+[20] Johny, A., Ilardi, P., Olsen, R. E., Egelandsdal, B., & Slinde, E. (2024). A proof-of-concept study to develop a peptide-based vaccine against salmon lice infestation in Atlantic salmon (*Salmo salar* L.). *Vaccines*, *12*(5), Article 456. https://doi.org/10.3390/vaccines12050456
