@@ -103,7 +103,15 @@ Resistance to *C. rogercresseyi* in Atlantic salmon is moderately heritable. In 
 
 ### Case Studies
 
-*No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
+**Establishment of *C. rogercresseyi* in Magallanes (2017 to 2026)**
+
+*C. rogercresseyi* had been reported along northern Patagonia, between 40°15'S and 49°16'S, where about 90% of Chilean salmon farms are located. In 2017 it was found for the first time on farmed Atlantic salmon in the Magallanes region, south of 49°16'S. Eight farms had at least one louse that year, and three behaved as epidemic farms, with peaks of 24.5 adult and 14 juvenile lice per fish. Azamethiphos baths sharply reduced the lice on the two farms with the highest levels, but the fish were reinfested a few weeks later.[24](https://doi.org/10.1016/j.aquaculture.2019.734386)
+
+Surveillance data suggest that the parasite has since persisted and spread. In 2024, 8 farm groupings (ACS) in Magallanes reported lice, with a regional maximum of 0.10 ovigerous females per fish, and in 2025 the number rose to 10 ACS and the maximum to 0.30, although the weekly prevalence of farms with 3 or more ovigerous females fell from 5.56% to 2.6%. Antiparasitic baths began in the region in 2024, and Sernapesca set official coordination windows for immersion treatments in Magallanes for 2026.[25](https://www.radiopolar.com/evento-esporadico-riesgo-presente-caligus-comienza-instalarse-magallanes-quedarse)
+
+In 2026, IFOP ran its susceptibility bioassays in Magallanes for the first time, at two farms. The assays were valid at Isla Capitán Aracena but could not be validated at Sector Taraba, where the parasites were quickly affected after removal from the fish, possibly because of freshwater influence or low water temperature. IFOP also observed phenotypic differences from lice in Los Lagos and Aysén (larger specimens and fewer skin petechiae) and suggests that the populations may differ genetically and respond differently to antiparasitics. It plans to expand the monitoring and to study the population genetics to define management units.[26](https://www.salmonexpert.cl/bioensayos-caligidosis-caligus/primeros-bioensayos-de-caligus-en-magallanes-revelan-nuevos-desafios-sanitarios-del-salmon/2114987)
+
+**Lessons Learned:** The parasite spread south, from a first report to repeated detections over several years, while loads stayed well below those of Los Lagos and Aysén. Experts recommend acting while pressure is still low, through early surveillance, biosecurity and coordination among farms, and resistance data from other regions cannot be assumed to apply to the Magallanes population.
 
 ## Data Insights
 
@@ -188,7 +196,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** 2026-10-15
+**Last Modified:** 2026-10-16
 
 ##### Other Parasitic Diseases
 [[Amoebic Gill Disease (AGD)]]
@@ -245,3 +253,9 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [22] InfoSalmon. (2026, September 27). *IFOP: Oceanografía clave para la salmonicultura*. https://infosalmon.cl/ifop-modelacion-oceanografica-salmonicultura-acs/
 
 [23] Instituto de Fomento Pesquero. (n.d.). *CLIC, conectividad lagrangiana*. CHONOS. http://chonos.ifop.cl/wiki/clic-conectividad-lagrangiana/
+
+[24] Núñez-Acuña, P., & Brossard, M. (2019). First report of the sea louse *Caligus rogercresseyi* found in farmed Atlantic salmon in the Magallanes region, Chile. *Aquaculture*, *512*, Article 734386. https://doi.org/10.1016/j.aquaculture.2019.734386
+
+[25] Radio Polar. (2026, August 10). *De evento esporádico a riesgo presente: Caligus comienza a instalarse en Magallanes para quedarse*. https://www.radiopolar.com/evento-esporadico-riesgo-presente-caligus-comienza-instalarse-magallanes-quedarse
+
+[26] Maldonado, I. (2026, May 4). Primeros bioensayos de Caligus en Magallanes revelan nuevos desafíos sanitarios del salmón. *Salmonexpert*. https://www.salmonexpert.cl/bioensayos-caligidosis-caligus/primeros-bioensayos-de-caligus-en-magallanes-revelan-nuevos-desafios-sanitarios-del-salmon/2114987
