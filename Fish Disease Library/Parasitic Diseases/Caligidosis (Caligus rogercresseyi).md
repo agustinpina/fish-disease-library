@@ -189,14 +189,14 @@ The CLIC module of CHONOS shows connectivity matrices between salmon farm conces
 
 ## Conclusion
 
-*No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
+Caligidosis is the main parasitic disease of Chilean salmon farming, and its control still depends largely on antiparasitic baths whose efficacy has declined as the sensitivity of *C. rogercresseyi* has changed, most clearly for azamethiphos. Effective management therefore combines routine load monitoring and resistance bioassays, rotation and use limits for active ingredients, non-pharmacological options, and treatments coordinated within each farm grouping, since lice from neighbouring farms can reinfest treated fish. The parasite has also reached Magallanes, where loads remain low, so early surveillance there is still a window to act. Selective breeding, vaccines and dispersal models are promising complements, but most remain experimental or are used to support planning rather than to replace current tools.
 
 ### Call to Action
 For more information on managing fish diseases and enhancing fish health, subscribe to our [newsletter](https://content.manolinaqua.com/manolin-newsletter-sign-up) and follow our latest research updates.
 
 ---
 
-**Last Modified:** 2026-10-16
+**Last Modified:** 2026-10-17
 
 ##### Other Parasitic Diseases
 [[Amoebic Gill Disease (AGD)]]
